@@ -1,0 +1,5077 @@
+{
+  "data": {
+    "pagination": {
+      "page": 1,
+      "pages": 2,
+      "per_page": 75,
+      "items": 141,
+      "urls": {
+        "last": "https://api.discogs.com/users/justenoughspace/collection/folders/0/releases?page=2&per_page=75",
+        "next": "https://api.discogs.com/users/justenoughspace/collection/folders/0/releases?page=2&per_page=75"
+      }
+    },
+    "releases": [
+      {
+        "id": 14376595,
+        "instance_id": 1449119782,
+        "date_added": "2023-09-03T08:24:55-07:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 14376595,
+          "master_id": 1835875,
+          "master_url": "https://api.discogs.com/masters/1835875",
+          "resource_url": "https://api.discogs.com/releases/14376595",
+          "thumb": "https://i.discogs.com/4lKtvBk4TkPT-_RnskiDmenMZwYK9HZT21Nc-v2yENA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzc2/NTk1LTE1NzMyOTgy/NDctNjY2NS5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/oJ9Caiwsp8is-kKaDJ3edHvb26lyvB7NYiAMOQPYNWQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzc2/NTk1LTE1NzMyOTgy/NDctNjY2NS5qcGVn.jpeg",
+          "title": "Shifts",
+          "year": 2019,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "descriptions": [
+                "12\"",
+                "EP"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Shida Shahabi",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 6076347,
+              "resource_url": "https://api.discogs.com/artists/6076347"
+            }
+          ],
+          "labels": [
+            {
+              "name": "130701",
+              "catno": "LP13-36",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 22548,
+              "resource_url": "https://api.discogs.com/labels/22548"
+            }
+          ],
+          "genres": [
+            "Classical"
+          ],
+          "styles": [
+            "Contemporary"
+          ]
+        },
+        "folder_id": 1
+      },
+      {
+        "id": 13115019,
+        "instance_id": 658192054,
+        "date_added": "2021-03-30T09:06:01-07:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 13115019,
+          "master_id": 1495600,
+          "master_url": "https://api.discogs.com/masters/1495600",
+          "resource_url": "https://api.discogs.com/releases/13115019",
+          "thumb": "https://i.discogs.com/G3ooErjThTxpg1kBOFKpecnJgiF14tr7Z39b1X09ojU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTE1/MDE5LTE1NTE5MDE1/NDctMTAxNS5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/fYcI7VVBMfVfsBtGsyNCB0TNnP6T2aC4SNF2Mpnp7-4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTE1/MDE5LTE1NTE5MDE1/NDctMTAxNS5qcGVn.jpeg",
+          "title": "Living Tomb",
+          "year": 2019,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "descriptions": [
+                "LP",
+                "Album"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Ossuarium",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 6163609,
+              "resource_url": "https://api.discogs.com/artists/6163609"
+            }
+          ],
+          "labels": [
+            {
+              "name": "20 Buck Spin",
+              "catno": "SPIN109",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 42593,
+              "resource_url": "https://api.discogs.com/labels/42593"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Death Metal"
+          ]
+        },
+        "folder_id": 1
+      },
+      {
+        "id": 17940550,
+        "instance_id": 658202023,
+        "date_added": "2021-03-30T09:13:45-07:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 17940550,
+          "master_id": 1576251,
+          "master_url": "https://api.discogs.com/masters/1576251",
+          "resource_url": "https://api.discogs.com/releases/17940550",
+          "thumb": "https://i.discogs.com/17I6ClikvH0g-HVOpWhtOxWXaoahDsyB7BXMbwgW2Qg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTQw/NTUwLTE2MTYzMTMy/MDgtNjQ2OC5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/k1bmyRm9hOifLcjxfcyFWuWbBqJ1SkIlq1kbUvy_G_8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTQw/NTUwLTE2MTYzMTMy/MDgtNjQ2OC5qcGVn.jpeg",
+          "title": "Planetary Clairvoyance",
+          "year": 2020,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "Deep Sea Blue",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Limited Edition"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Tomb Mold",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 4920650,
+              "resource_url": "https://api.discogs.com/artists/4920650"
+            }
+          ],
+          "labels": [
+            {
+              "name": "20 Buck Spin",
+              "catno": "SPIN114",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 42593,
+              "resource_url": "https://api.discogs.com/labels/42593"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Death Metal"
+          ]
+        },
+        "folder_id": 1
+      },
+      {
+        "id": 14418719,
+        "instance_id": 577475013,
+        "date_added": "2021-01-17T19:57:41-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 14418719,
+          "master_id": 1638593,
+          "master_url": "https://api.discogs.com/masters/1638593",
+          "resource_url": "https://api.discogs.com/releases/14418719",
+          "thumb": "https://i.discogs.com/bELfx1z12T4yyZnhnDMdewL53om-HXDMKmdBJvMB-1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDE4/NzE5LTE2NjExOTMy/NTEtNTI1NC5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/pDaRlzeG-zHaIHtij2A67w3buNKv4zR0k5ib1HQLk3I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDE4/NzE5LTE2NjExOTMy/NTEtNTI1NC5qcGVn.jpeg",
+          "title": "The Palms Of Sorrowed Kings",
+          "year": 2019,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "descriptions": [
+                "LP",
+                "Album"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Obsequiae",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 2385966,
+              "resource_url": "https://api.discogs.com/artists/2385966"
+            }
+          ],
+          "labels": [
+            {
+              "name": "20 Buck Spin",
+              "catno": "SPIN122",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 42593,
+              "resource_url": "https://api.discogs.com/labels/42593"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Black Metal",
+            "Folk Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Near Mint (NM or M-)"
+          },
+          {
+            "field_id": 2,
+            "value": "Near Mint (NM or M-)"
+          }
+        ]
+      },
+      {
+        "id": 18113494,
+        "instance_id": 820680664,
+        "date_added": "2021-10-01T12:29:57-07:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 18113494,
+          "master_id": 2047522,
+          "master_url": "https://api.discogs.com/masters/2047522",
+          "resource_url": "https://api.discogs.com/releases/18113494",
+          "thumb": "https://i.discogs.com/RWQZxmldlcdVKXSZBj0YKwjbdHJid1fCJT4FvHqMIfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTEz/NDk0LTE2MTczMzk1/MzgtNzIwMi5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/gx7gfCHE0vlVLKtE6BcynUBxru_-OKpeDIMdZeQCPgs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTEz/NDk0LTE2MTczMzk1/MzgtNzIwMi5qcGVn.jpeg",
+          "title": "Burn In Many Mirrors",
+          "year": 2021,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "descriptions": [
+                "LP",
+                "Album"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Wode",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 2526707,
+              "resource_url": "https://api.discogs.com/artists/2526707"
+            }
+          ],
+          "labels": [
+            {
+              "name": "20 Buck Spin",
+              "catno": "SPIN132",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 42593,
+              "resource_url": "https://api.discogs.com/labels/42593"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Black Metal"
+          ]
+        },
+        "folder_id": 1
+      },
+      {
+        "id": 21924250,
+        "instance_id": 966400891,
+        "date_added": "2022-03-05T13:01:04-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 21924250,
+          "master_id": 2400637,
+          "master_url": "https://api.discogs.com/masters/2400637",
+          "resource_url": "https://api.discogs.com/releases/21924250",
+          "thumb": "https://i.discogs.com/hIAp_d25zQeqlgmO5oTPvlngi3nFXQKEhgFmElPOOtw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI0/MjUwLTE2NDQ4NzQ2/NzUtODUyOC5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/c2sAnPRV1eE_usrj6hTJiYb7V8PH5NVHjNMcgvuY1ow/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI0/MjUwLTE2NDQ4NzQ2/NzUtODUyOC5qcGVn.jpeg",
+          "title": "Tide Turns Eternal",
+          "year": 2022,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "Neon Pink / Neon Orange Merge With Cyan Splatter",
+              "descriptions": [
+                "LP",
+                "Album"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Dream Unending",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 10330036,
+              "resource_url": "https://api.discogs.com/artists/10330036"
+            }
+          ],
+          "labels": [
+            {
+              "name": "20 Buck Spin",
+              "catno": "SPIN150",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 42593,
+              "resource_url": "https://api.discogs.com/labels/42593"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Death Metal",
+            "Doom Metal"
+          ]
+        },
+        "folder_id": 1
+      },
+      {
+        "id": 17871202,
+        "instance_id": 759271318,
+        "date_added": "2021-07-18T11:43:50-07:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 17871202,
+          "master_id": 1760768,
+          "master_url": "https://api.discogs.com/masters/1760768",
+          "resource_url": "https://api.discogs.com/releases/17871202",
+          "thumb": "https://i.discogs.com/rOhsd5X31BE3u8w6oQaXhj2dzXXQsgysDmqHgYluLkI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODcx/MjAyLTE2MTU5MTM3/NTAtMTIwNy5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/E1VoLl1IGDtfCSCj3WJKFt3oVGRKt2kv3eMo7iLB_JU/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODcx/MjAyLTE2MTU5MTM3/NTAtMTIwNy5qcGVn.jpeg",
+          "title": "Eden In Reverse",
+          "year": 2021,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "Blue Smoked",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Limited Edition",
+                "Numbered",
+                "Repress"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Hail Spirit Noir",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 2703392,
+              "resource_url": "https://api.discogs.com/artists/2703392"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Agonia Records",
+              "catno": "ARLP193",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 43136,
+              "resource_url": "https://api.discogs.com/labels/43136"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Psychedelic Rock",
+            "Prog Rock"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Near Mint (NM or M-)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good Plus (VG+)"
+          }
+        ]
+      },
+      {
+        "id": 4693837,
+        "instance_id": 577484193,
+        "date_added": "2021-01-17T20:20:02-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 4693837,
+          "master_id": 8437,
+          "master_url": "https://api.discogs.com/masters/8437",
+          "resource_url": "https://api.discogs.com/releases/4693837",
+          "thumb": "https://i.discogs.com/3me9uNL1bLJ2flhxJ8pRxCtTo2F5NQY4kz9m024thvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTM4/MzctMTM3MjQ1Mjc1/NC0zOTE3LmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/7batMjMSL0yA_oMk9PQoBRIPMFbBrjadBA-STy58zxk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTM4/MzctMTM3MjQ1Mjc1/NC0zOTE3LmpwZWc.jpeg",
+          "title": "High Voltage",
+          "year": 1976,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "PR",
+              "descriptions": [
+                "LP",
+                "Album"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "AC/DC",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 84752,
+              "resource_url": "https://api.discogs.com/artists/84752"
+            }
+          ],
+          "labels": [
+            {
+              "name": "ATCO Records",
+              "catno": "SD 36-142",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 3820,
+              "resource_url": "https://api.discogs.com/labels/3820"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Hard Rock"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good (VG)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good Plus (VG+)"
+          }
+        ]
+      },
+      {
+        "id": 1915002,
+        "instance_id": 577414461,
+        "date_added": "2021-01-17T17:58:13-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 1915002,
+          "master_id": 3649,
+          "master_url": "https://api.discogs.com/masters/3649",
+          "resource_url": "https://api.discogs.com/releases/1915002",
+          "thumb": "https://i.discogs.com/OANcqthOEoCQiY9fq7FQicKm5q0xSBe44rYtt4IT5ZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTUw/MDItMTI1MjE3MTQ5/MS5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/A4_dp0QfTT_v9ct4GXSxfFkf4n0SvQq2KSsYpD0LXNE/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTUw/MDItMTI1MjE3MTQ5/MS5qcGVn.jpeg",
+          "title": "Orchid",
+          "year": 2008,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "2",
+              "text": "Purple",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Limited Edition",
+                "Reissue"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Opeth",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 245797,
+              "resource_url": "https://api.discogs.com/artists/245797"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Back On Black",
+              "catno": "BOBV097LP",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 37884,
+              "resource_url": "https://api.discogs.com/labels/37884"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Acoustic",
+            "Death Metal",
+            "Prog Rock"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Near Mint (NM or M-)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good Plus (VG+)"
+          }
+        ]
+      },
+      {
+        "id": 1999839,
+        "instance_id": 577417179,
+        "date_added": "2021-01-17T18:02:25-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 1999839,
+          "master_id": 3625,
+          "master_url": "https://api.discogs.com/masters/3625",
+          "resource_url": "https://api.discogs.com/releases/1999839",
+          "thumb": "https://i.discogs.com/2iY1jc1cCQtMArPQq2MD2B7Unt9fBlrcf1NzEbhLx-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTk4/MzktMTI2MjYzODY0/Ny5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/ailFz9RFrR832bMRyPcWADUFgZ14bhq8qNqnBDZ5Wuo/rs:fit/g:sm/q:90/h:200/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTk4/MzktMTI2MjYzODY0/Ny5qcGVn.jpeg",
+          "title": "Morningrise",
+          "year": 2008,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "2",
+              "text": "Grey, 180 Gram",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Limited Edition",
+                "Reissue"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Opeth",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 245797,
+              "resource_url": "https://api.discogs.com/artists/245797"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Back On Black",
+              "catno": "BOBV098LP",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 37884,
+              "resource_url": "https://api.discogs.com/labels/37884"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Acoustic",
+            "Death Metal",
+            "Prog Rock"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good Plus (VG+)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good Plus (VG+)"
+          }
+        ]
+      },
+      {
+        "id": 1626424,
+        "instance_id": 577420548,
+        "date_added": "2021-01-17T18:08:19-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 1626424,
+          "master_id": 3682,
+          "master_url": "https://api.discogs.com/masters/3682",
+          "resource_url": "https://api.discogs.com/releases/1626424",
+          "thumb": "https://i.discogs.com/pAmGdK1kIjP9XvgmF_1Aq_S-I-basCNeW9fe3V3F8zU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjY0/MjQtMTQ2Njk1Nzk4/Ni01OTI0LnBuZw.jpeg",
+          "cover_image": "https://i.discogs.com/sh8bRlyx-x-nheyOhLFtiHExP6xTALd6gLgSl2hwZeI/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjY0/MjQtMTQ2Njk1Nzk4/Ni01OTI0LnBuZw.jpeg",
+          "title": "My Arms, Your Hearse",
+          "year": 2008,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "2",
+              "text": "Blue Light",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Limited Edition",
+                "Reissue"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Opeth",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 245797,
+              "resource_url": "https://api.discogs.com/artists/245797"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Back On Black",
+              "catno": "BOBV099LP",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 37884,
+              "resource_url": "https://api.discogs.com/labels/37884"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Acoustic",
+            "Death Metal",
+            "Prog Rock"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Near Mint (NM or M-)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good Plus (VG+)"
+          }
+        ]
+      },
+      {
+        "id": 16499988,
+        "instance_id": 770293228,
+        "date_added": "2021-07-31T20:47:48-07:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 16499988,
+          "master_id": 1732211,
+          "master_url": "https://api.discogs.com/masters/1732211",
+          "resource_url": "https://api.discogs.com/releases/16499988",
+          "thumb": "https://i.discogs.com/jaOSKQTeDuRe9JBlAz1hXOop48NrUQ2H9EqYqOGRfYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDk5/OTg4LTE2MDgxMjg3/NDQtNjQ0My5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/B-fdL_rz7LucdLLTiWnLTZRjb_gNEH4pc-7gjaCKUQI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDk5/OTg4LTE2MDgxMjg3/NDQtNjQ0My5qcGVn.jpeg",
+          "title": "Opulent Decay",
+          "year": 2020,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "Opulent Gold",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Limited Edition",
+                "Stereo"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Spell (9)",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 3827917,
+              "resource_url": "https://api.discogs.com/artists/3827917"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Bad Omen Records",
+              "catno": "OMEN022",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 593533,
+              "resource_url": "https://api.discogs.com/labels/593533"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Heavy Metal",
+            "Hard Rock"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Near Mint (NM or M-)"
+          },
+          {
+            "field_id": 2,
+            "value": "Near Mint (NM or M-)"
+          }
+        ]
+      },
+      {
+        "id": 9190518,
+        "instance_id": 577529325,
+        "date_added": "2021-01-17T22:31:40-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 9190518,
+          "master_id": 36781,
+          "master_url": "https://api.discogs.com/masters/36781",
+          "resource_url": "https://api.discogs.com/releases/9190518",
+          "thumb": "https://i.discogs.com/tNC4JjbxF92_342FyvkeS8agYkObMGKAVAvNSwm8PJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTA1/MTgtMTQ3NjUzMTYy/Mi00MjE0LmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/WGF0yKB9NSmxLq854X_1d4CoOAZXPTKAZyWOwKQLQ0w/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTA1/MTgtMTQ3NjUzMTYy/Mi00MjE0LmpwZWc.jpeg",
+          "title": "Weasels Ripped My Flesh",
+          "year": 1970,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "Terre Haute Pressing",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Stereo"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "The Mothers",
+              "anv": "The Mothers Of Invention",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 286086,
+              "resource_url": "https://api.discogs.com/artists/286086"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Bizarre Records",
+              "catno": "MS 2028",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 57757,
+              "resource_url": "https://api.discogs.com/labels/57757"
+            }
+          ],
+          "genres": [
+            "Jazz",
+            "Rock"
+          ],
+          "styles": [
+            "Blues Rock",
+            "Free Jazz",
+            "Fusion",
+            "Avantgarde"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good (VG)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good (VG)"
+          }
+        ]
+      },
+      {
+        "id": 11941323,
+        "instance_id": 577528053,
+        "date_added": "2021-01-17T22:27:15-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 11941323,
+          "master_id": 35600,
+          "master_url": "https://api.discogs.com/masters/35600",
+          "resource_url": "https://api.discogs.com/releases/11941323",
+          "thumb": "https://i.discogs.com/OM5cvF5xI1OMT_EwajeW1fzU_yyZfZ08-toSptuKujE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQx/MzIzLTE1OTgxODUw/NTAtNTU3OS5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/oc0vnYTycRv_TDzHRBF1ZW69763zAKMNu5D7-0t3agg/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQx/MzIzLTE1OTgxODUw/NTAtNTU3OS5qcGVn.jpeg",
+          "title": "Hot Rats",
+          "year": 1969,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "Terre Haute Pressing, Gatefold",
+              "descriptions": [
+                "LP",
+                "Album"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Frank Zappa",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 92623,
+              "resource_url": "https://api.discogs.com/artists/92623"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Bizarre Records",
+              "catno": "RS 6356",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 57757,
+              "resource_url": "https://api.discogs.com/labels/57757"
+            },
+            {
+              "name": "Reprise Records",
+              "catno": "RS 6356",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 157,
+              "resource_url": "https://api.discogs.com/labels/157"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Fusion",
+            "Jazz-Rock",
+            "Symphonic Rock"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good (VG)"
+          },
+          {
+            "field_id": 2,
+            "value": "Good Plus (G+)"
+          }
+        ]
+      },
+      {
+        "id": 10621172,
+        "instance_id": 577433601,
+        "date_added": "2021-01-17T18:32:38-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 10621172,
+          "master_id": 21522,
+          "master_url": "https://api.discogs.com/masters/21522",
+          "resource_url": "https://api.discogs.com/releases/10621172",
+          "thumb": "https://i.discogs.com/OvwIIWWmrMURgfPVR5wENO-q0W2jDHy7KmSCH8cc6sU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjIx/MTcyLTE1ODE3OTc5/MDEtMzEyNi5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/4YdSVNPNj8Bdmud0p8BuHecFpPeyb17msc4TtbBPO88/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjIx/MTcyLTE1ODE3OTc5/MDEtMzEyNi5qcGVn.jpeg",
+          "title": "Death On The Road",
+          "year": 2017,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "2",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Reissue",
+                "Remastered"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Iron Maiden",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 251595,
+              "resource_url": "https://api.discogs.com/artists/251595"
+            }
+          ],
+          "labels": [
+            {
+              "name": "BMG",
+              "catno": "4050538282054",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 1003,
+              "resource_url": "https://api.discogs.com/labels/1003"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Heavy Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Near Mint (NM or M-)"
+          },
+          {
+            "field_id": 2,
+            "value": "Near Mint (NM or M-)"
+          }
+        ]
+      },
+      {
+        "id": 7668471,
+        "instance_id": 577445676,
+        "date_added": "2021-01-17T18:57:02-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 7668471,
+          "master_id": 90405,
+          "master_url": "https://api.discogs.com/masters/90405",
+          "resource_url": "https://api.discogs.com/releases/7668471",
+          "thumb": "https://i.discogs.com/7f3bjJkMJAQRtajMoOZ5NaXGv3dHekdLvZfWoV7BCJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Njg0/NzEtMTQ0NjMyODcz/My00MzIzLmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/HQcZK8Vb7hH1TmCwtwlbt0ujG5cHCchJfRh5YQXUb7k/rs:fit/g:sm/q:90/h:250/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Njg0/NzEtMTQ0NjMyODcz/My00MzIzLmpwZWc.jpeg",
+          "title": "Keeper Of The Seven Keys Part I",
+          "year": 2015,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Reissue"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Helloween",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 252425,
+              "resource_url": "https://api.discogs.com/artists/252425"
+            }
+          ],
+          "labels": [
+            {
+              "name": "BMG",
+              "catno": "BMG15077V",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 1003,
+              "resource_url": "https://api.discogs.com/labels/1003"
+            },
+            {
+              "name": "Sanctuary",
+              "catno": "BMG15077V",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 28233,
+              "resource_url": "https://api.discogs.com/labels/28233"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Power Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Near Mint (NM or M-)"
+          },
+          {
+            "field_id": 2,
+            "value": "Near Mint (NM or M-)"
+          }
+        ]
+      },
+      {
+        "id": 7684701,
+        "instance_id": 577444824,
+        "date_added": "2021-01-17T18:55:20-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 7684701,
+          "master_id": 90447,
+          "master_url": "https://api.discogs.com/masters/90447",
+          "resource_url": "https://api.discogs.com/releases/7684701",
+          "thumb": "https://i.discogs.com/dtcrOYFPoP51aQsDXtYv3RYwcGPhoRJ_t_Ny4CdIu4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODQ3/MDEtMTQ1OTQ5MjA3/MS0xNzc5LmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/dbjULjsYCCaK7o-CQIE9Mu4TSmijPSDOYW3i8ENloGA/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODQ3/MDEtMTQ1OTQ5MjA3/MS0xNzc5LmpwZWc.jpeg",
+          "title": "Keeper Of The Seven Keys - Part II",
+          "year": 2015,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Reissue"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Helloween",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 252425,
+              "resource_url": "https://api.discogs.com/artists/252425"
+            }
+          ],
+          "labels": [
+            {
+              "name": "BMG",
+              "catno": "BMG15078V",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 1003,
+              "resource_url": "https://api.discogs.com/labels/1003"
+            },
+            {
+              "name": "Sanctuary",
+              "catno": "BMG15078V",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 28233,
+              "resource_url": "https://api.discogs.com/labels/28233"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Heavy Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Near Mint (NM or M-)"
+          },
+          {
+            "field_id": 2,
+            "value": "Near Mint (NM or M-)"
+          }
+        ]
+      },
+      {
+        "id": 20433082,
+        "instance_id": 846149833,
+        "date_added": "2021-11-01T13:52:38-07:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 20433082,
+          "master_id": 90595,
+          "master_url": "https://api.discogs.com/masters/90595",
+          "resource_url": "https://api.discogs.com/releases/20433082",
+          "thumb": "https://i.discogs.com/afdEWedKAAjk60c9W6jf1-6REBHLKbucC3eIOBsDEfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDMz/MDgyLTE2MzMwODY3/NzctMTAwNy5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/HZzA7EPeyuOuWgE8dT4lUpiCxQ021vJR_iMvIu9T1nw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDMz/MDgyLTE2MzMwODY3/NzctMTAwNy5qcGVn.jpeg",
+          "title": "Pink Bubbles Go Ape",
+          "year": 2021,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "Pink With Black Splatter, 30th Anniversary, Gatefold",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Limited Edition",
+                "Reissue"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Helloween",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 252425,
+              "resource_url": "https://api.discogs.com/artists/252425"
+            }
+          ],
+          "labels": [
+            {
+              "name": "BMG",
+              "catno": "BMGCATLP62C",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 1003,
+              "resource_url": "https://api.discogs.com/labels/1003"
+            },
+            {
+              "name": "Sanctuary",
+              "catno": "BMGCATLP62C",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 28233,
+              "resource_url": "https://api.discogs.com/labels/28233"
+            },
+            {
+              "name": "BMG",
+              "catno": "4050538675757",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 1003,
+              "resource_url": "https://api.discogs.com/labels/1003"
+            },
+            {
+              "name": "Sanctuary",
+              "catno": "4050538675757",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 28233,
+              "resource_url": "https://api.discogs.com/labels/28233"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Heavy Metal"
+          ]
+        },
+        "folder_id": 1
+      },
+      {
+        "id": 16290686,
+        "instance_id": 600560620,
+        "date_added": "2021-02-06T20:38:11-08:00",
+        "rating": 5,
+        "basic_information": {
+          "id": 16290686,
+          "master_id": 162934,
+          "master_url": "https://api.discogs.com/masters/162934",
+          "resource_url": "https://api.discogs.com/releases/16290686",
+          "thumb": "https://i.discogs.com/WB1pVvKKbesSFT8N-fNtIQKrAwbeFd64p-qfFhiklQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjkw/Njg2LTE2OTI5NTI0/ODktMTQ3MS5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/vujnyG24yZb47iM-PzQcZEUrFIyeEGeyauFo7cC0dEs/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjkw/Njg2LTE2OTI5NTI0/ODktMTQ3MS5qcGVn.jpeg",
+          "title": "II",
+          "year": 2020,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Reissue",
+                "Remastered"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Dungen",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 352175,
+              "resource_url": "https://api.discogs.com/artists/352175"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Busy Bee Production",
+              "catno": "BBP-082-LP",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 1600421,
+              "resource_url": "https://api.discogs.com/labels/1600421"
+            },
+            {
+              "name": "Busy Bee Production",
+              "catno": "BBP082",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 1600421,
+              "resource_url": "https://api.discogs.com/labels/1600421"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Folk Rock",
+            "Psychedelic Rock",
+            "Indie Rock",
+            "Prog Rock"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Near Mint (NM or M-)"
+          },
+          {
+            "field_id": 2,
+            "value": "Near Mint (NM or M-)"
+          }
+        ]
+      },
+      {
+        "id": 9467618,
+        "instance_id": 577408998,
+        "date_added": "2021-01-17T17:48:35-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 9467618,
+          "master_id": 18949,
+          "master_url": "https://api.discogs.com/masters/18949",
+          "resource_url": "https://api.discogs.com/releases/9467618",
+          "thumb": "https://i.discogs.com/I7jWYh9ubvxDVifGmInBlLPbzLviZfPeKSqyhFveNCg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Njc2/MTgtMTQ4MTA4ODU3/MS02NTEzLmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/X5u2XQ4Q7E0SJwl0672u3J80iyN81qr8krgl_hzMTzE/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Njc2/MTgtMTQ4MTA4ODU3/MS02NTEzLmpwZWc.jpeg",
+          "title": "Live After Death",
+          "year": 1985,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "2",
+              "text": "Jacksonville Pressing",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Stereo"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Iron Maiden",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 251595,
+              "resource_url": "https://api.discogs.com/artists/251595"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Capitol Records",
+              "catno": "SABB-12441",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 654,
+              "resource_url": "https://api.discogs.com/labels/654"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Heavy Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good Plus (VG+)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good (VG)"
+          }
+        ]
+      },
+      {
+        "id": 576965,
+        "instance_id": 577405068,
+        "date_added": "2021-01-17T17:41:54-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 576965,
+          "master_id": 18917,
+          "master_url": "https://api.discogs.com/masters/18917",
+          "resource_url": "https://api.discogs.com/releases/576965",
+          "thumb": "https://i.discogs.com/Qm0dxy9bn94bObr9bm0IAe13BxynrKExJyMO3Vi8uwE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Njk2/NS0xNTM0ODE3NjY3/LTcwNTQuanBlZw.jpeg",
+          "cover_image": "https://i.discogs.com/KiYvQijcyBLXkzIgMVapnN_kwTvLKRbLZE816enVfzw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Njk2/NS0xNTM0ODE3NjY3/LTcwNTQuanBlZw.jpeg",
+          "title": "Powerslave",
+          "year": 1984,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "Jacksonville Pressing",
+              "descriptions": [
+                "LP",
+                "Album"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Iron Maiden",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 251595,
+              "resource_url": "https://api.discogs.com/artists/251595"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Capitol Records",
+              "catno": "SJ-12321",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 654,
+              "resource_url": "https://api.discogs.com/labels/654"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Heavy Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good Plus (VG+)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good Plus (VG+)"
+          }
+        ]
+      },
+      {
+        "id": 7146143,
+        "instance_id": 577403034,
+        "date_added": "2021-01-17T17:38:08-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 7146143,
+          "master_id": 18823,
+          "master_url": "https://api.discogs.com/masters/18823",
+          "resource_url": "https://api.discogs.com/releases/7146143",
+          "thumb": "https://i.discogs.com/xbdCc1OPnqVuT9WCFr-guM_-TKRvEeUU0S-82V9DYEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDYx/NDMtMTYxMjkxODU3/Ny02Njg2LmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/tuWQK6swzuuNJReIF0g-A-9hpQaRkeRrJOKIH6qjdgU/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDYx/NDMtMTYxMjkxODU3/Ny02Njg2LmpwZWc.jpeg",
+          "title": "Piece Of Mind",
+          "year": 1983,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "Winchester Pressing",
+              "descriptions": [
+                "LP",
+                "Album"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Iron Maiden",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 251595,
+              "resource_url": "https://api.discogs.com/artists/251595"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Capitol Records",
+              "catno": "ST-12274",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 654,
+              "resource_url": "https://api.discogs.com/labels/654"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Heavy Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good Plus (VG+)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good (VG)"
+          }
+        ]
+      },
+      {
+        "id": 1879543,
+        "instance_id": 577504098,
+        "date_added": "2021-01-17T21:11:44-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 1879543,
+          "master_id": 32937,
+          "master_url": "https://api.discogs.com/masters/32937",
+          "resource_url": "https://api.discogs.com/releases/1879543",
+          "thumb": "https://i.discogs.com/ylHAH0OdhjAWtsStv0mNvE6X5pwKFjLO7BK-sykY8FM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzk1/NDMtMTY0ODEzNTQ3/NS02NTgzLmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/oLVCOzDEt_KEkMq5M8SNOv72JJkj9Y1XQNcHhdebQVU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzk1/NDMtMTY0ODEzNTQ3/NS02NTgzLmpwZWc.jpeg",
+          "title": "Rust In Peace",
+          "year": 2008,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "180 Gram",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Limited Edition",
+                "Reissue"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Megadeth",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 11770,
+              "resource_url": "https://api.discogs.com/artists/11770"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Capitol Records",
+              "catno": "EST 2132",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 654,
+              "resource_url": "https://api.discogs.com/labels/654"
+            },
+            {
+              "name": "Capitol Records",
+              "catno": "79 1935 1",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 654,
+              "resource_url": "https://api.discogs.com/labels/654"
+            },
+            {
+              "name": "Combat",
+              "catno": "EST 2132",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 33100,
+              "resource_url": "https://api.discogs.com/labels/33100"
+            },
+            {
+              "name": "Combat",
+              "catno": "79 1935 1",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 33100,
+              "resource_url": "https://api.discogs.com/labels/33100"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Thrash",
+            "Heavy Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Near Mint (NM or M-)"
+          },
+          {
+            "field_id": 2,
+            "value": "Near Mint (NM or M-)"
+          }
+        ]
+      },
+      {
+        "id": 14536455,
+        "instance_id": 577514904,
+        "date_added": "2021-01-17T21:44:40-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 14536455,
+          "master_id": 70716,
+          "master_url": "https://api.discogs.com/masters/70716",
+          "resource_url": "https://api.discogs.com/releases/14536455",
+          "thumb": "https://i.discogs.com/x0q6DrJzmO37t02nHE5VnjgHDOiM6MH_J0ZuXDdJqbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM2/NDU1LTE1NzY1NzY1/MTAtNDc4Mi5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/KndSO9ZQVSl5Yqc1rNHGhATTW-v92WmRFQIf8kP3CCc/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM2/NDU1LTE1NzY1NzY1/MTAtNDc4Mi5qcGVn.jpeg",
+          "title": "Power & The Glory",
+          "year": 1983,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Stereo"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Saxon",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 263589,
+              "resource_url": "https://api.discogs.com/artists/263589"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Carrere",
+              "catno": "PZ 38719",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 28549,
+              "resource_url": "https://api.discogs.com/labels/28549"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Heavy Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good (VG)"
+          },
+          {
+            "field_id": 2,
+            "value": "Good Plus (G+)"
+          }
+        ]
+      },
+      {
+        "id": 8513748,
+        "instance_id": 577516386,
+        "date_added": "2021-01-17T21:49:29-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 8513748,
+          "master_id": 41191,
+          "master_url": "https://api.discogs.com/masters/41191",
+          "resource_url": "https://api.discogs.com/releases/8513748",
+          "thumb": "https://i.discogs.com/C5lF5WTHAO5_J1rPgzQ7zn4rtjP1k9FCnhHXIMHzjb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTM3/NDgtMTU5ODM0MTQ2/Ni03OTAyLmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/zP4knXYEIf8t93_SFZs13IWVvLyvLjE9ANy5rQI7_qQ/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTM3/NDgtMTU5ODM0MTQ2/Ni03OTAyLmpwZWc.jpeg",
+          "title": "The Ultimate Sin",
+          "year": 1986,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "Pitman Pressing",
+              "descriptions": [
+                "LP",
+                "Album"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Ozzy Osbourne",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 59770,
+              "resource_url": "https://api.discogs.com/artists/59770"
+            }
+          ],
+          "labels": [
+            {
+              "name": "CBS Associated Records",
+              "catno": "OZ 40026",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 52445,
+              "resource_url": "https://api.discogs.com/labels/52445"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Heavy Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good Plus (VG+)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good (VG)"
+          }
+        ]
+      },
+      {
+        "id": 21663973,
+        "instance_id": 1449118984,
+        "date_added": "2023-09-03T08:24:06-07:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 21663973,
+          "master_id": 2453071,
+          "master_url": "https://api.discogs.com/masters/2453071",
+          "resource_url": "https://api.discogs.com/releases/21663973",
+          "thumb": "https://i.discogs.com/fnYQKUeE9wAYAVCeiEjnuxBtko0If2LDNXWTNytyp0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjYz/OTczLTE2NDE3MTc1/ODYtMzMyOC5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/qzfPHe3DxfQwnv0k1ekl4VM8B3i_-VvHQUTLWPuF36M/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjYz/OTczLTE2NDE3MTc1/ODYtMzMyOC5qcGVn.jpeg",
+          "title": "Epigone",
+          "year": 2022,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "2",
+              "text": "180g",
+              "descriptions": [
+                "LP",
+                "Album"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Wilderun",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 3824271,
+              "resource_url": "https://api.discogs.com/artists/3824271"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Century Media",
+              "catno": "19439927081",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 10956,
+              "resource_url": "https://api.discogs.com/labels/10956"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Folk Metal",
+            "Progressive Metal"
+          ]
+        },
+        "folder_id": 1
+      },
+      {
+        "id": 2557143,
+        "instance_id": 577487952,
+        "date_added": "2021-01-17T20:29:48-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 2557143,
+          "master_id": 26316,
+          "master_url": "https://api.discogs.com/masters/26316",
+          "resource_url": "https://api.discogs.com/releases/2557143",
+          "thumb": "https://i.discogs.com/adPfqD-qmW-gdZwVKVE_IPJg7bDI7-NCEd4dIKiAdHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTcx/NDMtMTQ1ODQ0NjU0/OS0zMzI1LmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/neTUyyf2p-EU-oWkyh8yxzofi-96r-GeyWMatyaw7I4/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTcx/NDMtMTQ1ODQ0NjU0/OS0zMzI1LmpwZWc.jpeg",
+          "title": "Priest... Live!",
+          "year": 1987,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "2",
+              "descriptions": [
+                "LP",
+                "Album"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Judas Priest",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 252121,
+              "resource_url": "https://api.discogs.com/artists/252121"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Columbia",
+              "catno": "C2 40794",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 1866,
+              "resource_url": "https://api.discogs.com/labels/1866"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Hard Rock",
+            "Heavy Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good Plus (VG+)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good (VG)"
+          }
+        ]
+      },
+      {
+        "id": 10617285,
+        "instance_id": 677799322,
+        "date_added": "2021-04-17T17:03:19-07:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 10617285,
+          "master_id": 151305,
+          "master_url": "https://api.discogs.com/masters/151305",
+          "resource_url": "https://api.discogs.com/releases/10617285",
+          "thumb": "https://i.discogs.com/GxWBr4TELpX4y0JRljs_riH5q_YUupeVEPtWyQtZHyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjE3/Mjg1LTE1MDEyNTMz/OTMtNzAwNy5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/cPX9wNzID_M6oCsz6wOKVW7cafBNY2V-sXo21EWBPLg/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjE3/Mjg1LTE1MDEyNTMz/OTMtNzAwNy5qcGVn.jpeg",
+          "title": "Gunfighter Ballads And Trail Songs",
+          "year": 1971,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Reissue",
+                "Stereo"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Marty Robbins",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 310355,
+              "resource_url": "https://api.discogs.com/artists/310355"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Columbia",
+              "catno": "CS 8158",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 1866,
+              "resource_url": "https://api.discogs.com/labels/1866"
+            }
+          ],
+          "genres": [
+            "Folk, World, & Country"
+          ],
+          "styles": [
+            "Country",
+            "Ballad",
+            "Western Swing"
+          ]
+        },
+        "folder_id": 1
+      },
+      {
+        "id": 412816,
+        "instance_id": 577493616,
+        "date_added": "2021-01-17T20:43:46-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 412816,
+          "master_id": 26341,
+          "master_url": "https://api.discogs.com/masters/26341",
+          "resource_url": "https://api.discogs.com/releases/412816",
+          "thumb": "https://i.discogs.com/_3MwNVVQWmxNtmfFMu6e_g4MmxvEktZ-MYZIKp1WcSc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjgx/Ni0xNTQ5MjQ1NTIy/LTgwNDcuanBlZw.jpeg",
+          "cover_image": "https://i.discogs.com/2bMaiM6ReEgQoOKQzOc5MQhDOX_KGdOdDnRhbdmaQCA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjgx/Ni0xNTQ5MjQ1NTIy/LTgwNDcuanBlZw.jpeg",
+          "title": "Screaming For Vengeance",
+          "year": 1982,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Stereo"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Judas Priest",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 252121,
+              "resource_url": "https://api.discogs.com/artists/252121"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Columbia",
+              "catno": "FC 38160",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 1866,
+              "resource_url": "https://api.discogs.com/labels/1866"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Heavy Metal",
+            "Hard Rock"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good Plus (VG+)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good Plus (VG+)"
+          }
+        ]
+      },
+      {
+        "id": 8572361,
+        "instance_id": 577490445,
+        "date_added": "2021-01-17T20:36:11-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 8572361,
+          "master_id": 26183,
+          "master_url": "https://api.discogs.com/masters/26183",
+          "resource_url": "https://api.discogs.com/releases/8572361",
+          "thumb": "https://i.discogs.com/0Mv9_qFf8b8365poC0N9pZd988Zll1ZTiIpQ1EXEDmU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzIz/NjEtMTQ2NDI5MDE1/OC05OTY2LmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/nG1IUDK_f3FChhPLRK1-OpZqk0Rb9GgTTo2giHXt1XQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzIz/NjEtMTQ2NDI5MDE1/OC05OTY2LmpwZWc.jpeg",
+          "title": "Defenders Of The Faith",
+          "year": 1984,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "Carrollton Pressing",
+              "descriptions": [
+                "LP",
+                "Album"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Judas Priest",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 252121,
+              "resource_url": "https://api.discogs.com/artists/252121"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Columbia",
+              "catno": "FC 39219",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 1866,
+              "resource_url": "https://api.discogs.com/labels/1866"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Heavy Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good Plus (VG+)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good Plus (VG+)"
+          }
+        ]
+      },
+      {
+        "id": 1762140,
+        "instance_id": 577500888,
+        "date_added": "2021-01-17T21:03:07-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 1762140,
+          "master_id": 26358,
+          "master_url": "https://api.discogs.com/masters/26358",
+          "resource_url": "https://api.discogs.com/releases/1762140",
+          "thumb": "https://i.discogs.com/Pozhs04xd6pnfHKkBBzUYnBbMPHGVQyXAKl8Pk0IXJQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjIx/NDAtMTM0NzI4OTQw/OS03MjEyLmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/k-pUGIURNNhsb4i0yfi16_jJrcrFI2gePH2C8KAnAuM/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjIx/NDAtMTM0NzI4OTQw/OS03MjEyLmpwZWc.jpeg",
+          "title": "Stained Class",
+          "year": 1978,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "Terre Haute Pressing",
+              "descriptions": [
+                "LP",
+                "Album"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Judas Priest",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 252121,
+              "resource_url": "https://api.discogs.com/artists/252121"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Columbia",
+              "catno": "JC 35296",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 1866,
+              "resource_url": "https://api.discogs.com/labels/1866"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Heavy Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good (VG)"
+          },
+          {
+            "field_id": 2,
+            "value": "Good Plus (G+)"
+          }
+        ]
+      },
+      {
+        "id": 7784462,
+        "instance_id": 577494582,
+        "date_added": "2021-01-17T20:46:28-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 7784462,
+          "master_id": 26170,
+          "master_url": "https://api.discogs.com/masters/26170",
+          "resource_url": "https://api.discogs.com/releases/7784462",
+          "thumb": "https://i.discogs.com/XthBJjiwKFTBpe3pZbO78U6NiGjl4f0Bdj3wicZ5h5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODQ0/NjItMTQ0ODcxNTk2/Ny03MjEyLmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/B0J4-tY8sn0DyDO2Yw1F272R4Hf5W0cax2NbHiMdnQQ/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODQ0/NjItMTQ0ODcxNTk2/Ny03MjEyLmpwZWc.jpeg",
+          "title": "British Steel",
+          "year": 0,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Reissue"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Judas Priest",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 252121,
+              "resource_url": "https://api.discogs.com/artists/252121"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Columbia",
+              "catno": "JC 36443",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 1866,
+              "resource_url": "https://api.discogs.com/labels/1866"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Heavy Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good Plus (VG+)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good (VG)"
+          }
+        ]
+      },
+      {
+        "id": 8569429,
+        "instance_id": 577500057,
+        "date_added": "2021-01-17T21:00:58-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 8569429,
+          "master_id": 26227,
+          "master_url": "https://api.discogs.com/masters/26227",
+          "resource_url": "https://api.discogs.com/releases/8569429",
+          "thumb": "https://i.discogs.com/UElXazEFTpuj3RYJ6KQkpl5TzCvxHiQoiJjpAR38z88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Njk0/MjktMTQ2NDIzNzQ1/My0zNDE5LmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/IZyUINKYLyTYDVBXNQIh_uvGnhVvy6-5eYB_y5sfPQI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Njk0/MjktMTQ2NDIzNzQ1/My0zNDE5LmpwZWc.jpeg",
+          "title": "Hell Bent For Leather",
+          "year": 0,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "Carrollton Pressing",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Reissue"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Judas Priest",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 252121,
+              "resource_url": "https://api.discogs.com/artists/252121"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Columbia",
+              "catno": "JC 35706",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 1866,
+              "resource_url": "https://api.discogs.com/labels/1866"
+            },
+            {
+              "name": "Columbia",
+              "catno": "35706",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 1866,
+              "resource_url": "https://api.discogs.com/labels/1866"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Hard Rock",
+            "Heavy Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good (VG)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good (VG)"
+          }
+        ]
+      },
+      {
+        "id": 11828571,
+        "instance_id": 577502604,
+        "date_added": "2021-01-17T21:07:25-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 11828571,
+          "master_id": 26347,
+          "master_url": "https://api.discogs.com/masters/26347",
+          "resource_url": "https://api.discogs.com/releases/11828571",
+          "thumb": "https://i.discogs.com/JFqVI95cLa-a2eHqfdux1ssLBxRSxM7yjeb3456FfUg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI4/NTcxLTE1MjgxNjQw/NTItMTgwNy5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/RufW1CEYmFvuCNu2jsIixyeiFu_nQnjLLD02jRSgVoc/rs:fit/g:sm/q:90/h:545/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI4/NTcxLTE1MjgxNjQw/NTItMTgwNy5qcGVn.jpeg",
+          "title": "Sin After Sin",
+          "year": 1977,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "descriptions": [
+                "LP",
+                "Album"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Judas Priest",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 252121,
+              "resource_url": "https://api.discogs.com/artists/252121"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Columbia",
+              "catno": "PC 34787",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 1866,
+              "resource_url": "https://api.discogs.com/labels/1866"
+            },
+            {
+              "name": "Columbia",
+              "catno": "34787",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 1866,
+              "resource_url": "https://api.discogs.com/labels/1866"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Heavy Metal",
+            "Hard Rock"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good (VG)"
+          },
+          {
+            "field_id": 2,
+            "value": "Good (G)"
+          }
+        ]
+      },
+      {
+        "id": 11203096,
+        "instance_id": 577486176,
+        "date_added": "2021-01-17T20:25:13-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 11203096,
+          "master_id": 26296,
+          "master_url": "https://api.discogs.com/masters/26296",
+          "resource_url": "https://api.discogs.com/releases/11203096",
+          "thumb": "https://i.discogs.com/St08A08S8a_7Ine4dUsIrpddIIYiHPESsIszU-Ke4tg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjAz/MDk2LTE1MTQ3MDcy/OTgtNzM3My5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/8e1hbmfqmuQbdB-VWVjePznPweYw7VV3VFO-NwpeV4Y/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjAz/MDk2LTE1MTQ3MDcy/OTgtNzM3My5qcGVn.jpeg",
+          "title": "Painkiller",
+          "year": 2017,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "180g",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Reissue"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Judas Priest",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 252121,
+              "resource_url": "https://api.discogs.com/artists/252121"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Columbia",
+              "catno": "88985390921",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 1866,
+              "resource_url": "https://api.discogs.com/labels/1866"
+            },
+            {
+              "name": "Legacy",
+              "catno": "88985390921",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 15491,
+              "resource_url": "https://api.discogs.com/labels/15491"
+            },
+            {
+              "name": "Sony Music",
+              "catno": "88985390921",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 25487,
+              "resource_url": "https://api.discogs.com/labels/25487"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Heavy Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Near Mint (NM or M-)"
+          },
+          {
+            "field_id": 2,
+            "value": "Near Mint (NM or M-)"
+          }
+        ]
+      },
+      {
+        "id": 14426698,
+        "instance_id": 828725167,
+        "date_added": "2021-10-11T06:26:21-07:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 14426698,
+          "master_id": 1639488,
+          "master_url": "https://api.discogs.com/masters/1639488",
+          "resource_url": "https://api.discogs.com/releases/14426698",
+          "thumb": "https://i.discogs.com/IjLVzQ5bK8T4Av8i_x9B8OtTHDejWiALtstt5RsBoq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDI2/Njk4LTE1NzU2MzQ3/MTktOTU3OC5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/XAT8Gf4eGOv-cDNtIndBgNW8KvWNMOAUChQxK26jTYI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDI2/Njk4LTE1NzU2MzQ3/MTktOTU3OC5qcGVn.jpeg",
+          "title": "Hidden History Of The Human Race",
+          "year": 2019,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Limited Edition"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Blood Incantation",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 3283673,
+              "resource_url": "https://api.discogs.com/artists/3283673"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Dark Descent Records",
+              "catno": "DDR 236",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 181859,
+              "resource_url": "https://api.discogs.com/labels/181859"
+            },
+            {
+              "name": "Stargate Research Society",
+              "catno": "DDR 236",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 1725338,
+              "resource_url": "https://api.discogs.com/labels/1725338"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Death Metal",
+            "Progressive Metal",
+            "Space Rock"
+          ]
+        },
+        "folder_id": 1
+      },
+      {
+        "id": 7352166,
+        "instance_id": 577533075,
+        "date_added": "2021-01-17T22:45:22-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 7352166,
+          "master_id": 35903,
+          "master_url": "https://api.discogs.com/masters/35903",
+          "resource_url": "https://api.discogs.com/releases/7352166",
+          "thumb": "https://i.discogs.com/_4MO0MWT7wyQ1sPTW190DzcgW601ttA_NoAIznta9Os/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNTIx/NjYtMTU5ODg4OTg2/MC01MjQ3LmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/zNbb312aDdAZov9N3D9c4sD8SsQswoD-Cigo7eaf7Ss/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNTIx/NjYtMTU5ODg4OTg2/MC01MjQ3LmpwZWc.jpeg",
+          "title": "Zappa In New York",
+          "year": 1978,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "2",
+              "text": "Jacksonville Pressing Gatefold",
+              "descriptions": [
+                "LP",
+                "Album"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Frank Zappa",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 92623,
+              "resource_url": "https://api.discogs.com/artists/92623"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Discreet",
+              "catno": "2D 2290",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 23699,
+              "resource_url": "https://api.discogs.com/labels/23699"
+            }
+          ],
+          "genres": [
+            "Jazz",
+            "Rock"
+          ],
+          "styles": [
+            "Fusion",
+            "Avantgarde",
+            "Prog Rock"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Good Plus (G+)"
+          },
+          {
+            "field_id": 2,
+            "value": "Good Plus (G+)"
+          }
+        ]
+      },
+      {
+        "id": 7070618,
+        "instance_id": 577535007,
+        "date_added": "2021-01-17T22:53:12-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 7070618,
+          "master_id": 35831,
+          "master_url": "https://api.discogs.com/masters/35831",
+          "resource_url": "https://api.discogs.com/releases/7070618",
+          "thumb": "https://i.discogs.com/_NGRlpeaWSG8VCTzkNscvmn7gTTSAYzXWA9F2bUwYFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzA2/MTgtMTQzMzE2OTIx/NS01NjAyLmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/NzFog1VonKeTg-964Z7CKIPgBJUY6eXbbFHGo4wN7K8/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzA2/MTgtMTQzMzE2OTIx/NS01NjAyLmpwZWc.jpeg",
+          "title": "Roxy & Elsewhere",
+          "year": 1974,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "2",
+              "text": "Terre Haute Press, Gatefold",
+              "descriptions": [
+                "LP",
+                "Album"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Frank Zappa",
+              "anv": "Zappa",
+              "join": "/",
+              "role": "",
+              "tracks": "",
+              "id": 92623,
+              "resource_url": "https://api.discogs.com/artists/92623"
+            },
+            {
+              "name": "The Mothers",
+              "anv": "Mothers",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 286086,
+              "resource_url": "https://api.discogs.com/artists/286086"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Discreet",
+              "catno": "2DS 2202",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 23699,
+              "resource_url": "https://api.discogs.com/labels/23699"
+            }
+          ],
+          "genres": [
+            "Jazz",
+            "Rock"
+          ],
+          "styles": [
+            "Blues Rock",
+            "Jazz-Rock",
+            "Experimental",
+            "Parody"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good (VG)"
+          },
+          {
+            "field_id": 2,
+            "value": "Good (G)"
+          }
+        ]
+      },
+      {
+        "id": 1259018,
+        "instance_id": 577534473,
+        "date_added": "2021-01-17T22:50:45-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 1259018,
+          "master_id": 35863,
+          "master_url": "https://api.discogs.com/masters/35863",
+          "resource_url": "https://api.discogs.com/releases/1259018",
+          "thumb": "https://i.discogs.com/YmkbTNK0ISdF9wEUa4Pa_uO-lB8wLO9evbHwX7EalMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTkw/MTgtMTY1NDM2NTgy/OS01Njg2LmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/CIk-pK8SRJw5ZrOeuV7_8SjWVquBK_Qmd09pP7nffDk/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTkw/MTgtMTY1NDM2NTgy/OS01Njg2LmpwZWc.jpeg",
+          "title": "One Size Fits All",
+          "year": 1975,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "Gatefold, Santa Maria Pressing",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Stereo"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Frank Zappa",
+              "anv": "",
+              "join": "And",
+              "role": "",
+              "tracks": "",
+              "id": 92623,
+              "resource_url": "https://api.discogs.com/artists/92623"
+            },
+            {
+              "name": "The Mothers",
+              "anv": "The Mothers Of Invention",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 286086,
+              "resource_url": "https://api.discogs.com/artists/286086"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Discreet",
+              "catno": "DS 2216",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 23699,
+              "resource_url": "https://api.discogs.com/labels/23699"
+            }
+          ],
+          "genres": [
+            "Jazz",
+            "Rock"
+          ],
+          "styles": [
+            "Fusion",
+            "Avantgarde",
+            "Prog Rock"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good (VG)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good (VG)"
+          }
+        ]
+      },
+      {
+        "id": 6384746,
+        "instance_id": 577524378,
+        "date_added": "2021-01-17T22:15:34-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 6384746,
+          "master_id": 36415,
+          "master_url": "https://api.discogs.com/masters/36415",
+          "resource_url": "https://api.discogs.com/releases/6384746",
+          "thumb": "https://i.discogs.com/LdH_bJZOUzdQkQTKrhgOIKlCw_VXjItjWy2tU3g_XxQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzODQ3/NDYtMTQxNzkyNTY4/NS05NDI1LmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/2U6bCTrXaSWO-TXldkLM3w51B6Z-eUxs1zedAC0ijcE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzODQ3/NDYtMTQxNzkyNTY4/NS05NDI1LmpwZWc.jpeg",
+          "title": "Over-Nite Sensation",
+          "year": 1977,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "Gloversville Pressing, Gatefold",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Reissue"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "The Mothers",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 286086,
+              "resource_url": "https://api.discogs.com/artists/286086"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Discreet",
+              "catno": "DSK 2288",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 23699,
+              "resource_url": "https://api.discogs.com/labels/23699"
+            }
+          ],
+          "genres": [
+            "Jazz",
+            "Rock"
+          ],
+          "styles": [
+            "Jazz-Rock"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good (VG)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good (VG)"
+          }
+        ]
+      },
+      {
+        "id": 2254620,
+        "instance_id": 577389165,
+        "date_added": "2021-01-17T17:14:39-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 2254620,
+          "master_id": 406634,
+          "master_url": "https://api.discogs.com/masters/406634",
+          "resource_url": "https://api.discogs.com/releases/2254620",
+          "thumb": "https://i.discogs.com/Kwtz11ALtFqrxoqQvPEcxPR69ZR4txFhA32JwrTYYuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ2/MjAtMTU2MDg3MDY5/My05OTA3LmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/4eAgtUpTADVE65a3jHPPTYUTkjz9NgMLI8jhqIlkcFw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ2/MjAtMTU2MDg3MDY5/My05OTA3LmpwZWc.jpeg",
+          "title": "In The Court Of The Crimson King",
+          "year": 1983,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "Half-Speed Mastered, HUB",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Reissue",
+                "Remastered"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "King Crimson",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 70828,
+              "resource_url": "https://api.discogs.com/artists/70828"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Editions EG",
+              "catno": "EGKC 1",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 199,
+              "resource_url": "https://api.discogs.com/labels/199"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Prog Rock"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Near Mint (NM or M-)"
+          },
+          {
+            "field_id": 2,
+            "value": "Near Mint (NM or M-)"
+          }
+        ]
+      },
+      {
+        "id": 568050,
+        "instance_id": 790921723,
+        "date_added": "2021-08-25T20:40:45-07:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 568050,
+          "master_id": 94261,
+          "master_url": "https://api.discogs.com/masters/94261",
+          "resource_url": "https://api.discogs.com/releases/568050",
+          "thumb": "https://i.discogs.com/fJyeJYH6KktNnj78Vk57BAwuYzlIBp6_wltqL6GmRpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODA1/MC0xNDY3NDA0NDU0/LTk1NTIuanBlZw.jpeg",
+          "cover_image": "https://i.discogs.com/QMVIH1DFLFBAgYPAIV6g6KXaFlx_4YET2AoWk-mJkaM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODA1/MC0xNDY3NDA0NDU0/LTk1NTIuanBlZw.jpeg",
+          "title": "Blessing In Disguise",
+          "year": 1989,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Stereo"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Metal Church",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 117590,
+              "resource_url": "https://api.discogs.com/artists/117590"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Elektra",
+              "catno": "9 60817-1",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 651,
+              "resource_url": "https://api.discogs.com/labels/651"
+            },
+            {
+              "name": "Elektra",
+              "catno": "60817-1",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 651,
+              "resource_url": "https://api.discogs.com/labels/651"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Heavy Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good Plus (VG+)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good Plus (VG+)"
+          }
+        ]
+      },
+      {
+        "id": 1854018,
+        "instance_id": 577428090,
+        "date_added": "2021-01-17T18:22:18-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 1854018,
+          "master_id": 19302,
+          "master_url": "https://api.discogs.com/masters/19302",
+          "resource_url": "https://api.discogs.com/releases/1854018",
+          "thumb": "https://i.discogs.com/z7CdZ3UvzbGgEuA4xkMAtP11A2WhDOQXZquSSuwvMwY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTQw/MTgtMTI4MTM5MTMy/NC5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/fYWD8LPag6uM7_WrMFQcqzXRFnm47yzY9dLKv2J-tyE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTQw/MTgtMTI4MTM5MTMy/NC5qcGVn.jpeg",
+          "title": "The Clairvoyant",
+          "year": 1988,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "descriptions": [
+                "12\""
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Iron Maiden",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 251595,
+              "resource_url": "https://api.discogs.com/artists/251595"
+            }
+          ],
+          "labels": [
+            {
+              "name": "EMI",
+              "catno": "12 EM 79",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 26126,
+              "resource_url": "https://api.discogs.com/labels/26126"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Heavy Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good Plus (VG+)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good Plus (VG+)"
+          }
+        ]
+      },
+      {
+        "id": 2580172,
+        "instance_id": 577430043,
+        "date_added": "2021-01-17T18:25:50-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 2580172,
+          "master_id": 196942,
+          "master_url": "https://api.discogs.com/masters/196942",
+          "resource_url": "https://api.discogs.com/releases/2580172",
+          "thumb": "https://i.discogs.com/1mibxagqKRHcE26ZWWmq1yXwge49881MGI2zDM_KJh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODAx/NzItMTYzMTU0MTI1/OC02NjU4LmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/_ccewTLfSco7Ep-2dFsuoGfZTCjQYBQyFaDtN1pjAq0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODAx/NzItMTYzMTU0MTI1/OC02NjU4LmpwZWc.jpeg",
+          "title": "Maiden England",
+          "year": 1998,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Limited Edition",
+                "Picture Disc",
+                "Promo",
+                "Unofficial Release"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Iron Maiden",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 251595,
+              "resource_url": "https://api.discogs.com/artists/251595"
+            }
+          ],
+          "labels": [
+            {
+              "name": "EMI",
+              "catno": "PLP 8 3006729",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 26126,
+              "resource_url": "https://api.discogs.com/labels/26126"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": []
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good Plus (VG+)"
+          },
+          {
+            "field_id": 2,
+            "value": "Generic"
+          }
+        ]
+      },
+      {
+        "id": 1426246,
+        "instance_id": 790921237,
+        "date_added": "2021-08-25T20:39:01-07:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 1426246,
+          "master_id": 70744,
+          "master_url": "https://api.discogs.com/masters/70744",
+          "resource_url": "https://api.discogs.com/releases/1426246",
+          "thumb": "https://i.discogs.com/-dShqMTlPUnk0yDbIMoRElApJoMB5q20oeXg36HqAXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjYy/NDYtMTUxNjc0NzA2/Ni02MTI5LnBuZw.jpeg",
+          "cover_image": "https://i.discogs.com/90A7MWOMGgQ9jzz52-nOo_0aLn_9X0c9YufvBkHxKfk/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjYy/NDYtMTUxNjc0NzA2/Ni02MTI5LnBuZw.jpeg",
+          "title": "The Warning",
+          "year": 1984,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "descriptions": [
+                "LP",
+                "Album"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Queensrÿche",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 255363,
+              "resource_url": "https://api.discogs.com/artists/255363"
+            }
+          ],
+          "labels": [
+            {
+              "name": "EMI America",
+              "catno": "ST-17134",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 5761,
+              "resource_url": "https://api.discogs.com/labels/5761"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Heavy Metal",
+            "Progressive Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good Plus (VG+)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good Plus (VG+)"
+          }
+        ]
+      },
+      {
+        "id": 11328705,
+        "instance_id": 577474071,
+        "date_added": "2021-01-17T19:55:43-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 11328705,
+          "master_id": 70738,
+          "master_url": "https://api.discogs.com/masters/70738",
+          "resource_url": "https://api.discogs.com/releases/11328705",
+          "thumb": "https://i.discogs.com/ULyZ-K7Gse7V2PLQVvz2nYqj3xz0KA2livzp7bEOF1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzI4/NzA1LTE1MTQ3NDY2/NzQtMzMzOC5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/6s5N5WUc39A_9U5NzQzH3NpP7n4oL9ACFCAKn7BqViQ/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzI4/NzA1LTE1MTQ3NDY2/NzQtMzMzOC5qcGVn.jpeg",
+          "title": "Rage For Order",
+          "year": 1986,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "Black Ring Cover, SRC Pressing",
+              "descriptions": [
+                "LP",
+                "Album"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Queensrÿche",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 255363,
+              "resource_url": "https://api.discogs.com/artists/255363"
+            }
+          ],
+          "labels": [
+            {
+              "name": "EMI America",
+              "catno": "ST-17197",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 5761,
+              "resource_url": "https://api.discogs.com/labels/5761"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Hard Rock",
+            "Heavy Metal",
+            "Progressive Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good Plus (VG+)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good Plus (VG+)"
+          }
+        ]
+      },
+      {
+        "id": 808805,
+        "instance_id": 577472418,
+        "date_added": "2021-01-17T19:52:13-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 808805,
+          "master_id": 70734,
+          "master_url": "https://api.discogs.com/masters/70734",
+          "resource_url": "https://api.discogs.com/releases/808805",
+          "thumb": "https://i.discogs.com/dv2Ds5sG5haUyq628jnwkhyXu01DgypTIaPmldI4N7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODgw/NS0xMzA1ODQ5NjQ1/LmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/29UBWXI-KGH0aw8tYWpD3TBwjntCKu0-5sT8YPrc5qg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODgw/NS0xMzA1ODQ5NjQ1/LmpwZWc.jpeg",
+          "title": "Operation: Mindcrime",
+          "year": 1988,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "Specialty Pressing",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Stereo"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Queensrÿche",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 255363,
+              "resource_url": "https://api.discogs.com/artists/255363"
+            }
+          ],
+          "labels": [
+            {
+              "name": "EMI-Manhattan Records",
+              "catno": "E1 48640",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 2922,
+              "resource_url": "https://api.discogs.com/labels/2922"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Hard Rock",
+            "Heavy Metal",
+            "Progressive Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good (VG)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good (VG)"
+          }
+        ]
+      },
+      {
+        "id": 4025140,
+        "instance_id": 1344947573,
+        "date_added": "2023-05-02T17:11:01-07:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 4025140,
+          "master_id": 19182,
+          "master_url": "https://api.discogs.com/masters/19182",
+          "resource_url": "https://api.discogs.com/releases/4025140",
+          "thumb": "https://i.discogs.com/7IWBbNujAZqgDyqe5egUya_lELreni5Zkni3LHIrT-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjUx/NDAtMTYyNDE3OTQz/Mi0yNDMxLmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/7Ad-GriqdP7AYWy0D2JLtooLsNmbzUnIlyRL5w6qREw/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjUx/NDAtMTYyNDE3OTQz/Mi0yNDMxLmpwZWc.jpeg",
+          "title": "Seventh Son Of A Seventh Son",
+          "year": 1988,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "descriptions": [
+                "LP",
+                "Album"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Iron Maiden",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 251595,
+              "resource_url": "https://api.discogs.com/artists/251595"
+            }
+          ],
+          "labels": [
+            {
+              "name": "EMI",
+              "catno": "038-79 0258 1",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 26126,
+              "resource_url": "https://api.discogs.com/labels/26126"
+            },
+            {
+              "name": "EMI",
+              "catno": "064-7902581",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 26126,
+              "resource_url": "https://api.discogs.com/labels/26126"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Heavy Metal"
+          ]
+        },
+        "folder_id": 1
+      },
+      {
+        "id": 605557,
+        "instance_id": 577431552,
+        "date_added": "2021-01-17T18:28:35-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 605557,
+          "master_id": 193424,
+          "master_url": "https://api.discogs.com/masters/193424",
+          "resource_url": "https://api.discogs.com/releases/605557",
+          "thumb": "https://i.discogs.com/g9Xy_L7Z1zzdubfUyQPMIJM00HqoxajvfGqR5Hb0wPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTU1/Ny0xMzEyMDY0Njgw/LmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/X_6shBgNvqKO7qHO407S9u5cOpy7_Mz6Suh5_TfyjzQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTU1/Ny0xMzEyMDY0Njgw/LmpwZWc.jpeg",
+          "title": "The Wicker Man",
+          "year": 2000,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "descriptions": [
+                "12\"",
+                "33 ⅓ RPM",
+                "Single",
+                "Limited Edition",
+                "Picture Disc"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Iron Maiden",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 251595,
+              "resource_url": "https://api.discogs.com/artists/251595"
+            }
+          ],
+          "labels": [
+            {
+              "name": "EMI",
+              "catno": "7243 8 88687 6 1",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 26126,
+              "resource_url": "https://api.discogs.com/labels/26126"
+            },
+            {
+              "name": "EMI",
+              "catno": "12EM 568",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 26126,
+              "resource_url": "https://api.discogs.com/labels/26126"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Heavy Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Near Mint (NM or M-)"
+          },
+          {
+            "field_id": 2,
+            "value": "Near Mint (NM or M-)"
+          }
+        ]
+      },
+      {
+        "id": 761023,
+        "instance_id": 577410096,
+        "date_added": "2021-01-17T17:50:38-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 761023,
+          "master_id": 19132,
+          "master_url": "https://api.discogs.com/masters/19132",
+          "resource_url": "https://api.discogs.com/releases/761023",
+          "thumb": "https://i.discogs.com/bpiCq2_v-gjAPuIZeY-QIA7om_bSCMI9fqyNebvU3n0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTAy/My0xNjkxMTU4NDE4/LTkyNTQuanBlZw.jpeg",
+          "cover_image": "https://i.discogs.com/ECwDYKwjqSLSxzQ0nZQgOkSwlUIATVycNUlbKmMn5_A/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTAy/My0xNjkxMTU4NDE4/LTkyNTQuanBlZw.jpeg",
+          "title": "Somewhere In Time",
+          "year": 1986,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Stereo"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Iron Maiden",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 251595,
+              "resource_url": "https://api.discogs.com/artists/251595"
+            }
+          ],
+          "labels": [
+            {
+              "name": "EMI",
+              "catno": "064 24 0597 1",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 26126,
+              "resource_url": "https://api.discogs.com/labels/26126"
+            },
+            {
+              "name": "EMI",
+              "catno": "24 0597 1",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 26126,
+              "resource_url": "https://api.discogs.com/labels/26126"
+            },
+            {
+              "name": "EMI",
+              "catno": "1C 062-24 0597 1",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 26126,
+              "resource_url": "https://api.discogs.com/labels/26126"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Heavy Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good Plus (VG+)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good Plus (VG+)"
+          }
+        ]
+      },
+      {
+        "id": 1401637,
+        "instance_id": 1449118534,
+        "date_added": "2023-09-03T08:23:38-07:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 1401637,
+          "master_id": 106090,
+          "master_url": "https://api.discogs.com/masters/106090",
+          "resource_url": "https://api.discogs.com/releases/1401637",
+          "thumb": "https://i.discogs.com/9bhmk8bU9cuDD_wGOH0ALrBz9iAXCL3LuOJFpQ_ccww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDE2/MzctMTQ2Nzg4ODc3/OC02MDczLmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/nmJZxEFhsxXu1wgpIOdXplJgltoqvgzog1E8zRazYSA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDE2/MzctMTQ2Nzg4ODc3/OC02MDczLmpwZWc.jpeg",
+          "title": "No Exit",
+          "year": 1988,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "descriptions": [
+                "LP",
+                "Album"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Fates Warning",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 252066,
+              "resource_url": "https://api.discogs.com/artists/252066"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Enigma (4)",
+              "catno": "D1-73330",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 139028,
+              "resource_url": "https://api.discogs.com/labels/139028"
+            },
+            {
+              "name": "Metal Blade Records",
+              "catno": "D1-73330",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 45267,
+              "resource_url": "https://api.discogs.com/labels/45267"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Progressive Metal"
+          ]
+        },
+        "folder_id": 1
+      },
+      {
+        "id": 930276,
+        "instance_id": 577317456,
+        "date_added": "2021-01-17T15:31:28-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 930276,
+          "master_id": 52517,
+          "master_url": "https://api.discogs.com/masters/52517",
+          "resource_url": "https://api.discogs.com/releases/930276",
+          "thumb": "https://i.discogs.com/upseucGyIhrqKTtyReuMshMNqNyV8cs-XATJ-0n8z6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMDI3/Ni0xMjYzNzI0NjY4/LmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/uDriiVM4UrFgxt97p7J7jNRZlBGc3Ip9ipJ4G3Wc_qU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMDI3/Ni0xMjYzNzI0NjY4/LmpwZWc.jpeg",
+          "title": "The Pick Of Destiny",
+          "year": 2006,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Limited Edition",
+                "Picture Disc"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Tenacious D",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 275914,
+              "resource_url": "https://api.discogs.com/artists/275914"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Epic",
+              "catno": "82796 94891 1",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 1005,
+              "resource_url": "https://api.discogs.com/labels/1005"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Acoustic",
+            "Heavy Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good Plus (VG+)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good (VG)"
+          }
+        ]
+      },
+      {
+        "id": 15201445,
+        "instance_id": 577515267,
+        "date_added": "2021-01-17T21:45:52-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 15201445,
+          "master_id": 1726897,
+          "master_url": "https://api.discogs.com/masters/1726897",
+          "resource_url": "https://api.discogs.com/releases/15201445",
+          "thumb": "https://i.discogs.com/3FmUDb3uBOxM-cDKTE-lhHwqtQ7rWXMzawTTLL3PK94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjAx/NDQ1LTE1ODgxNDgw/OTMtMTk0NC5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/p99bP0nu1WEIpFVdHiI0AJEgsX_vMBkzRgMPuFIHV8M/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjAx/NDQ1LTE1ODgxNDgw/OTMtMTk0NC5qcGVn.jpeg",
+          "title": "Spectral Devastation",
+          "year": 2020,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "descriptions": [
+                "LP",
+                "Album"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Solicitor",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 7007850,
+              "resource_url": "https://api.discogs.com/artists/7007850"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Gates Of Hell Records",
+              "catno": "GOH61",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 860135,
+              "resource_url": "https://api.discogs.com/labels/860135"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Heavy Metal",
+            "Speed Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Near Mint (NM or M-)"
+          },
+          {
+            "field_id": 2,
+            "value": "Near Mint (NM or M-)"
+          }
+        ]
+      },
+      {
+        "id": 787652,
+        "instance_id": 577484637,
+        "date_added": "2021-01-17T20:21:20-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 787652,
+          "master_id": 9143,
+          "master_url": "https://api.discogs.com/masters/9143",
+          "resource_url": "https://api.discogs.com/releases/787652",
+          "thumb": "https://i.discogs.com/OrC09lBAVJqH5cVwOySGL2uVmK2rwom8Z4hNBikjiiU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NzY1/Mi0xMzc0NDc5OTk5/LTE4OTMuanBlZw.jpeg",
+          "cover_image": "https://i.discogs.com/XVreZra47UNTRpM1pdepMSFoCxuXSE8j5gRR5C77N_A/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NzY1/Mi0xMzc0NDc5OTk5/LTE4OTMuanBlZw.jpeg",
+          "title": "Amputechture",
+          "year": 2006,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "2",
+              "text": "White/Orange Marbled Half And Half",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Special Cut"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "The Mars Volta",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 96218,
+              "resource_url": "https://api.discogs.com/artists/96218"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Gold Standard Laboratories",
+              "catno": "GSL 126",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 12131,
+              "resource_url": "https://api.discogs.com/labels/12131"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Prog Rock"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good Plus (VG+)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good Plus (VG+)"
+          }
+        ]
+      },
+      {
+        "id": 368602,
+        "instance_id": 577397664,
+        "date_added": "2021-01-17T17:29:10-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 368602,
+          "master_id": 18427,
+          "master_url": "https://api.discogs.com/masters/18427",
+          "resource_url": "https://api.discogs.com/releases/368602",
+          "thumb": "https://i.discogs.com/PRSHfmZXI1DYjne-9e-b5zzFLWbUlTBg1UW_0RK4Dz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODYw/Mi0xNjUwNTQ4NjIx/LTQxNDIuanBlZw.jpeg",
+          "cover_image": "https://i.discogs.com/fLlENbmuTo7xI4VnMMyz1LrAhzgBKw109ByOcw-J694/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODYw/Mi0xNjUwNTQ4NjIx/LTQxNDIuanBlZw.jpeg",
+          "title": "Maiden Japan",
+          "year": 1981,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "Jacksonville Pressing",
+              "descriptions": [
+                "12\"",
+                "Mini-Album",
+                "EP"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Iron Maiden",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 251595,
+              "resource_url": "https://api.discogs.com/artists/251595"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Harvest",
+              "catno": "MLP 15000",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 2564,
+              "resource_url": "https://api.discogs.com/labels/2564"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Heavy Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good Plus (VG+)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good Plus (VG+)"
+          }
+        ]
+      },
+      {
+        "id": 1367390,
+        "instance_id": 577391334,
+        "date_added": "2021-01-17T17:18:30-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 1367390,
+          "master_id": 14394,
+          "master_url": "https://api.discogs.com/masters/14394",
+          "resource_url": "https://api.discogs.com/releases/1367390",
+          "thumb": "https://i.discogs.com/5yfz--FZnbT9d9bgBSM-1gzXZBl6MvXJh68ENbC1ruo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjcz/OTAtMTM4MzU5OTAy/NC01NDA0LmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/tipiosdDL0vmiY9CPVFQieu82LKsWSCrpInK4tOm0R4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjcz/OTAtMTM4MzU5OTAy/NC01NDA0LmpwZWc.jpeg",
+          "title": "Iron Maiden",
+          "year": 1980,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "Winchester",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Stereo"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Iron Maiden",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 251595,
+              "resource_url": "https://api.discogs.com/artists/251595"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Harvest",
+              "catno": "ST-12094",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 2564,
+              "resource_url": "https://api.discogs.com/labels/2564"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Heavy Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good (VG)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good (VG)"
+          }
+        ]
+      },
+      {
+        "id": 13511276,
+        "instance_id": 577395219,
+        "date_added": "2021-01-17T17:25:11-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 13511276,
+          "master_id": 14360,
+          "master_url": "https://api.discogs.com/masters/14360",
+          "resource_url": "https://api.discogs.com/releases/13511276",
+          "thumb": "https://i.discogs.com/H8IqAVZe4y_LZNEf3sYDRcDQZGEjCH914IYSAXoUBrY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTEx/Mjc2LTE1NTU1OTMw/MDctODgwOS5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/_pyDQGMFVfRxuPflBnoRZflsJQvveVklcd2hErN1YBk/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTEx/Mjc2LTE1NTU1OTMw/MDctODgwOS5qcGVn.jpeg",
+          "title": "Killers",
+          "year": 1981,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "Winchester Pressing",
+              "descriptions": [
+                "LP",
+                "Album"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Iron Maiden",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 251595,
+              "resource_url": "https://api.discogs.com/artists/251595"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Harvest",
+              "catno": "ST-12141",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 2564,
+              "resource_url": "https://api.discogs.com/labels/2564"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Heavy Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good Plus (VG+)"
+          },
+          {
+            "field_id": 2,
+            "value": "Near Mint (NM or M-)"
+          }
+        ]
+      },
+      {
+        "id": 8019088,
+        "instance_id": 818125822,
+        "date_added": "2021-09-28T07:26:18-07:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 8019088,
+          "master_id": 233788,
+          "master_url": "https://api.discogs.com/masters/233788",
+          "resource_url": "https://api.discogs.com/releases/8019088",
+          "thumb": "https://i.discogs.com/vwfWOEQMZZe0WGjE9TOjFXPQZllI4j1StbfxvI5rxf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTkw/ODgtMTQ4NjQ5ODky/NC04NzM0LmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/fOerqDkzRfPyOGNPqSmULz6POxpNqc28jyOH-VR6WBg/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTkw/ODgtMTQ4NjQ5ODky/NC04NzM0LmpwZWc.jpeg",
+          "title": "Prior To The Fire",
+          "year": 2009,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "Translucent Orange",
+              "descriptions": [
+                "LP",
+                "Album"
+              ]
+            },
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "Translucent Green",
+              "descriptions": [
+                "LP",
+                "Album"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Priestess",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 752621,
+              "resource_url": "https://api.discogs.com/artists/752621"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Indica Records",
+              "catno": "INDLP001",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 16259,
+              "resource_url": "https://api.discogs.com/labels/16259"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Hard Rock"
+          ]
+        },
+        "folder_id": 1
+      },
+      {
+        "id": 15159236,
+        "instance_id": 577412535,
+        "date_added": "2021-01-17T17:55:00-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 15159236,
+          "master_id": 1703798,
+          "master_url": "https://api.discogs.com/masters/1703798",
+          "resource_url": "https://api.discogs.com/releases/15159236",
+          "thumb": "https://i.discogs.com/CJ7vUGmKs_RWFwT0V4g9N_zXOntIPNzMdAjSuDd5Qm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU5/MjM2LTE1ODc0NTcz/MTMtMjkwMC5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/5swR6SOiONJlgUPooVb0fu9ZlJto1dUQ7Xzryy47D2I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU5/MjM2LTE1ODc0NTcz/MTMtMjkwMC5qcGVn.jpeg",
+          "title": "Krupinské Ohne",
+          "year": 2020,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "Black",
+              "descriptions": [
+                "LP",
+                "Album"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Malokarpatan",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 4662596,
+              "resource_url": "https://api.discogs.com/artists/4662596"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Invictus Productions",
+              "catno": "IP152LP",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 54438,
+              "resource_url": "https://api.discogs.com/labels/54438"
+            },
+            {
+              "name": "The Ajna Offensive",
+              "catno": "FLAME 117LP",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 22472,
+              "resource_url": "https://api.discogs.com/labels/22472"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Black Metal",
+            "Heavy Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Near Mint (NM or M-)"
+          },
+          {
+            "field_id": 2,
+            "value": "Near Mint (NM or M-)"
+          }
+        ]
+      },
+      {
+        "id": 18568930,
+        "instance_id": 745372552,
+        "date_added": "2021-07-01T15:39:31-07:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 18568930,
+          "master_id": 1945062,
+          "master_url": "https://api.discogs.com/masters/1945062",
+          "resource_url": "https://api.discogs.com/releases/18568930",
+          "thumb": "https://i.discogs.com/5lNnDudU5xU9H9k2PUr0wONOlseRiJ8KVFV0Ke5X4xY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTY4/OTMwLTE2MjAyMDEz/OTAtNDgwMS5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/YElDWNymVZHL4gQp94C3RJrUFU1U3hURyL4bkga4qkU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTY4/OTMwLTE2MjAyMDEz/OTAtNDgwMS5qcGVn.jpeg",
+          "title": "Godslastering: Hymns Of A Forlorn Peasantry",
+          "year": 2021,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "Green translucent w/ black splatter",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Limited Edition",
+                "Repress"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Hulder",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 6531388,
+              "resource_url": "https://api.discogs.com/artists/6531388"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Iron Bonehead Productions",
+              "catno": "IBP494",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 35206,
+              "resource_url": "https://api.discogs.com/labels/35206"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Black Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Near Mint (NM or M-)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good (VG)"
+          }
+        ]
+      },
+      {
+        "id": 14155638,
+        "instance_id": 577482186,
+        "date_added": "2021-01-17T20:15:07-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 14155638,
+          "master_id": 33562,
+          "master_url": "https://api.discogs.com/masters/33562",
+          "resource_url": "https://api.discogs.com/releases/14155638",
+          "thumb": "https://i.discogs.com/0R-Rk9CxKvHaNpUmJs7bxF383ONw4WCJey7DvpdvHr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTU1/NjM4LTE1NjkxMTIy/NzMtMTE1Ni5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/f47UtpueKXVePvnakqrvaCq5_xEEReaMKkkhcSmky-s/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTU1/NjM4LTE1NjkxMTIy/NzMtMTE1Ni5qcGVn.jpeg",
+          "title": "The Snow Goose",
+          "year": 1975,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "descriptions": [
+                "LP",
+                "Album"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Camel",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 140646,
+              "resource_url": "https://api.discogs.com/artists/140646"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Janus Records",
+              "catno": "JXS 7016",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 31481,
+              "resource_url": "https://api.discogs.com/labels/31481"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Prog Rock"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good Plus (VG+)"
+          },
+          {
+            "field_id": 2,
+            "value": "Good Plus (G+)"
+          }
+        ]
+      },
+      {
+        "id": 1508701,
+        "instance_id": 577314876,
+        "date_added": "2021-01-17T15:28:21-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 1508701,
+          "master_id": 41155,
+          "master_url": "https://api.discogs.com/masters/41155",
+          "resource_url": "https://api.discogs.com/releases/1508701",
+          "thumb": "https://i.discogs.com/B_OLI2YwWmTierox6CcY5wfkMK5JrAMYAVMaVC2Cb5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDg3/MDEtMTYzNTM0MTY3/OC0xMzEzLmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/7X7BXGIQIjzIKJz5lsya6P5KgUE1X-RbpCq-MazhN7I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDg3/MDEtMTYzNTM0MTY3/OC0xMzEzLmpwZWc.jpeg",
+          "title": "Blizzard Of Ozz",
+          "year": 1980,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "Aston Clinton Pressing",
+              "descriptions": [
+                "LP",
+                "Album"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Ozzy Osbourne",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 59770,
+              "resource_url": "https://api.discogs.com/artists/59770"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Jet Records",
+              "catno": "JETLP 234",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 2055,
+              "resource_url": "https://api.discogs.com/labels/2055"
+            },
+            {
+              "name": "Jet Records",
+              "catno": "JET LP 234",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 2055,
+              "resource_url": "https://api.discogs.com/labels/2055"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Hard Rock",
+            "Heavy Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good Plus (VG+)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good Plus (VG+)"
+          }
+        ]
+      },
+      {
+        "id": 18800353,
+        "instance_id": 730000690,
+        "date_added": "2021-06-12T20:04:03-07:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 18800353,
+          "master_id": 10236,
+          "master_url": "https://api.discogs.com/masters/10236",
+          "resource_url": "https://api.discogs.com/releases/18800353",
+          "thumb": "https://i.discogs.com/dOC5EOLg3kYha68aMbX-jrLtRAvDp9-nDpXwHfPzNO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODAw/MzUzLTE2MjIxNjEy/MTgtNzE0OC5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/__TuribkTmbxhgU2dHJgKcxAVmog5GbNVjt7ElHURro/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODAw/MzUzLTE2MjIxNjEy/MTgtNzE0OC5qcGVn.jpeg",
+          "title": "Age Of Winters",
+          "year": 2021,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "Purple Frost",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Record Store Day",
+                "Limited Edition",
+                "Reissue",
+                "Repress"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "The Sword",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 569308,
+              "resource_url": "https://api.discogs.com/artists/569308"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Kemado Records",
+              "catno": "KEM 029",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 20182,
+              "resource_url": "https://api.discogs.com/labels/20182"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Stoner Rock",
+            "Doom Metal"
+          ]
+        },
+        "folder_id": 1
+      },
+      {
+        "id": 1626464,
+        "instance_id": 577422582,
+        "date_added": "2021-01-17T18:12:00-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 1626464,
+          "master_id": 4276,
+          "master_url": "https://api.discogs.com/masters/4276",
+          "resource_url": "https://api.discogs.com/releases/1626464",
+          "thumb": "https://i.discogs.com/KvPgMdrHnZDKFhHKOYiY_FzoEcMxafjPds-yElrkAuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjY0/NjQtMTYzNTI2MTEy/Ny05MzUzLmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/jhXAdg98R6s-rhgJ36hvwWAKaTDme8rusNZ3PkMxH2I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjY0/NjQtMTYzNTI2MTEy/Ny05MzUzLmpwZWc.jpeg",
+          "title": "Damnation",
+          "year": 2008,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "2",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Reissue"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Opeth",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 245797,
+              "resource_url": "https://api.discogs.com/artists/245797"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Koch Records",
+              "catno": "KOC-LP-4577",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 4933,
+              "resource_url": "https://api.discogs.com/labels/4933"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Acoustic",
+            "Prog Rock"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Near Mint (NM or M-)"
+          },
+          {
+            "field_id": 2,
+            "value": "Near Mint (NM or M-)"
+          }
+        ]
+      },
+      {
+        "id": 4822923,
+        "instance_id": 577541013,
+        "date_added": "2021-01-17T23:15:19-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 4822923,
+          "master_id": 63503,
+          "master_url": "https://api.discogs.com/masters/63503",
+          "resource_url": "https://api.discogs.com/releases/4822923",
+          "thumb": "https://i.discogs.com/A22U9Vi6nJe6JRJogKbNah_y8n3D41i_Mkr-6bPNxRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MjI5/MjMtMTM3NzA4NDM0/MS02MDg2LmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/k3uqnvh1rQ3KZ685dtSnKxqGYO4TPzKaKS5UUCXItmk/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MjI5/MjMtMTM3NzA4NDM0/MS02MDg2LmpwZWc.jpeg",
+          "title": "Stupid Dream",
+          "year": 2013,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "2",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Reissue",
+                "Remastered"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Porcupine Tree",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 5105,
+              "resource_url": "https://api.discogs.com/artists/5105"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Kscope",
+              "catno": "KSCOPE845",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 112611,
+              "resource_url": "https://api.discogs.com/labels/112611"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Alternative Rock",
+            "Prog Rock",
+            "Symphonic Rock"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good Plus (VG+)"
+          },
+          {
+            "field_id": 2,
+            "value": "Near Mint (NM or M-)"
+          }
+        ]
+      },
+      {
+        "id": 10265119,
+        "instance_id": 792476794,
+        "date_added": "2021-08-27T18:56:58-07:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 10265119,
+          "master_id": 63505,
+          "master_url": "https://api.discogs.com/masters/63505",
+          "resource_url": "https://api.discogs.com/releases/10265119",
+          "thumb": "https://i.discogs.com/Dvw2imZxg2S4j8I4LSJ1GyVngQnA4ffDGrd2zi5RpFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjY1/MTE5LTE2MjUwNTcz/MTctNzc0MC5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/LaTa4Vf0SGDuNOL9kwd_C0zyDzV0NZupNBKX8_ik7Y0/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjY1/MTE5LTE2MjUwNTcz/MTctNzc0MC5qcGVn.jpeg",
+          "title": "The Sky Moves Sideways",
+          "year": 2017,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "2",
+              "text": "180g",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Reissue",
+                "Remastered"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Porcupine Tree",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 5105,
+              "resource_url": "https://api.discogs.com/artists/5105"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Kscope",
+              "catno": "KSCOPE949",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 112611,
+              "resource_url": "https://api.discogs.com/labels/112611"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Space Rock",
+            "Psychedelic Rock",
+            "Prog Rock"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Near Mint (NM or M-)"
+          },
+          {
+            "field_id": 2,
+            "value": "Near Mint (NM or M-)"
+          }
+        ]
+      },
+      {
+        "id": 11603918,
+        "instance_id": 792477166,
+        "date_added": "2021-08-27T18:57:48-07:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 11603918,
+          "master_id": 63496,
+          "master_url": "https://api.discogs.com/masters/63496",
+          "resource_url": "https://api.discogs.com/releases/11603918",
+          "thumb": "https://i.discogs.com/YEF81QNanM7Sdl8qt3SYvwYw4oC1IqeH_tGcqiUA1qQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjAz/OTE4LTE1MjEwMjM0/NjctNDc4MS5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/1ez3TSvzPyS8xgpcq4sw33nB9lfrVRZAfHV_m8JeoCY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjAz/OTE4LTE1MjEwMjM0/NjctNDc4MS5qcGVn.jpeg",
+          "title": "Fear Of A Blank Planet",
+          "year": 2018,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "2",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Repress"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Porcupine Tree",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 5105,
+              "resource_url": "https://api.discogs.com/artists/5105"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Kscope",
+              "catno": "KSCOPE977",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 112611,
+              "resource_url": "https://api.discogs.com/labels/112611"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Indie Rock",
+            "Prog Rock"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Near Mint (NM or M-)"
+          },
+          {
+            "field_id": 2,
+            "value": "Near Mint (NM or M-)"
+          }
+        ]
+      },
+      {
+        "id": 11606134,
+        "instance_id": 792455761,
+        "date_added": "2021-08-27T18:12:39-07:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 11606134,
+          "master_id": 62376,
+          "master_url": "https://api.discogs.com/masters/62376",
+          "resource_url": "https://api.discogs.com/releases/11606134",
+          "thumb": "https://i.discogs.com/hzXk93fECYshURdkPpHEVddOCxsoe6Y4snoiDPzT_x8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjA2/MTM0LTE1MTkzNjcy/ODctMjEzNS5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/Vd-W3ChuUkcj8h0pbgKfh2n4fIT6VQnXFmS_kXQxVn8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjA2/MTM0LTE1MTkzNjcy/ODctMjEzNS5qcGVn.jpeg",
+          "title": "Deadwing",
+          "year": 2018,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "2",
+              "text": "180 gram",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Reissue",
+                "Remastered",
+                "Stereo"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Porcupine Tree",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 5105,
+              "resource_url": "https://api.discogs.com/artists/5105"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Kscope",
+              "catno": "KSCOPE986",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 112611,
+              "resource_url": "https://api.discogs.com/labels/112611"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Prog Rock",
+            "Symphonic Rock"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Near Mint (NM or M-)"
+          },
+          {
+            "field_id": 2,
+            "value": "Near Mint (NM or M-)"
+          }
+        ]
+      },
+      {
+        "id": 4873599,
+        "instance_id": 577452135,
+        "date_added": "2021-01-17T19:10:21-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 4873599,
+          "master_id": 0,
+          "master_url": null,
+          "resource_url": "https://api.discogs.com/releases/4873599",
+          "thumb": "https://i.discogs.com/cwR8UkDCHRQk_SYEt-HcL2TnnlmrjLOZ5_X2gIdeDbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NzM1/OTktMTM3ODEyMjEz/My0xNDI1LmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/Np4SNP7U9kd-2eNtkHLG7f22Ppa3_SrOR2AFJGSp8N0/rs:fit/g:sm/q:90/h:228/w:221/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NzM1/OTktMTM3ODEyMjEz/My0xNDI1LmpwZWc.jpeg",
+          "title": "Tractor Fuckin Trailer / Choking On Forbidden Fruit",
+          "year": 2003,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "Red Translucent",
+              "descriptions": [
+                "7\"",
+                "45 RPM",
+                "Single",
+                "Stereo"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Devil To Pay",
+              "anv": "",
+              "join": "/",
+              "role": "",
+              "tracks": "",
+              "id": 3383493,
+              "resource_url": "https://api.discogs.com/artists/3383493"
+            },
+            {
+              "name": "Mantis (30)",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 5469524,
+              "resource_url": "https://api.discogs.com/artists/5469524"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Lax Wax",
+              "catno": "none",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 568678,
+              "resource_url": "https://api.discogs.com/labels/568678"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Stoner Rock"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good Plus (VG+)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good Plus (VG+)"
+          }
+        ]
+      },
+      {
+        "id": 8734515,
+        "instance_id": 577526502,
+        "date_added": "2021-01-17T22:22:30-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 8734515,
+          "master_id": 35680,
+          "master_url": "https://api.discogs.com/masters/35680",
+          "resource_url": "https://api.discogs.com/releases/8734515",
+          "thumb": "https://i.discogs.com/K0C5xdqQ7zybcX7QQn8HI-R0NElQ5HF1jTSe0XtaOIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MzQ1/MTUtMTQ2NzYzMjE0/MC04NjM2LmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/MCfSAD424lm42ylU9GTYz0d4o-2VWJBnspaTXUX_heg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MzQ1/MTUtMTQ2NzYzMjE0/MC04NjM2LmpwZWc.jpeg",
+          "title": "200 Motels",
+          "year": 0,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "2",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Reissue"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Frank Zappa",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 92623,
+              "resource_url": "https://api.discogs.com/artists/92623"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Liberty",
+              "catno": "7C 138-92854/5",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 13531,
+              "resource_url": "https://api.discogs.com/labels/13531"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Blues Rock",
+            "Avantgarde"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good (VG)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good (VG)"
+          }
+        ]
+      },
+      {
+        "id": 13395723,
+        "instance_id": 577512231,
+        "date_added": "2021-01-17T21:37:09-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 13395723,
+          "master_id": 133334,
+          "master_url": "https://api.discogs.com/masters/133334",
+          "resource_url": "https://api.discogs.com/releases/13395723",
+          "thumb": "https://i.discogs.com/QQYpd6btpAvpbOBmKruUVzqbtTLIru3Eki5YbCKvWjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzk1/NzIzLTE2OTU0MDgw/NTEtNzQ4OS5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/Qj-ClY1N3isU0118RyD_2IwNxW5ShYPZ3Razgu43D8g/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzk1/NzIzLTE2OTU0MDgw/NTEtNzQ4OS5qcGVn.jpeg",
+          "title": "Wild Cat",
+          "year": 1980,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "descriptions": [
+                "LP",
+                "Album"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Tygers Of Pan Tang",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 407694,
+              "resource_url": "https://api.discogs.com/artists/407694"
+            }
+          ],
+          "labels": [
+            {
+              "name": "MCA Records",
+              "catno": "MCA-3270",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 878,
+              "resource_url": "https://api.discogs.com/labels/878"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Heavy Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Good Plus (G+)"
+          },
+          {
+            "field_id": 2,
+            "value": "Good (G)"
+          }
+        ]
+      },
+      {
+        "id": 2111121,
+        "instance_id": 577454475,
+        "date_added": "2021-01-17T19:15:25-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 2111121,
+          "master_id": 127092,
+          "master_url": "https://api.discogs.com/masters/127092",
+          "resource_url": "https://api.discogs.com/releases/2111121",
+          "thumb": "https://i.discogs.com/dsIl7QA8fyMVr3kDozk-L2uoJBIUTryFgDWPoqJEt34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTEx/MjEtMTQwNTMyOTA4/NC0xODkzLmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/XRFAZycFaG9MfXGuMlug_cE-CTlWCoHEUEB-Gg9poKE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTEx/MjEtMTQwNTMyOTA4/NC0xODkzLmpwZWc.jpeg",
+          "title": "Violence & Force",
+          "year": 1984,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "descriptions": [
+                "LP",
+                "Album"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Exciter",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 260861,
+              "resource_url": "https://api.discogs.com/artists/260861"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Megaforce Records",
+              "catno": "MRI 569",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 35976,
+              "resource_url": "https://api.discogs.com/labels/35976"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Thrash"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Good Plus (G+)"
+          },
+          {
+            "field_id": 2,
+            "value": "Good (G)"
+          }
+        ]
+      },
+      {
+        "id": 4061372,
+        "instance_id": 577305633,
+        "date_added": "2021-01-17T15:16:59-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 4061372,
+          "master_id": 58197,
+          "master_url": "https://api.discogs.com/masters/58197",
+          "resource_url": "https://api.discogs.com/releases/4061372",
+          "thumb": "https://i.discogs.com/vSWcqec-0k-14pZK6IxQT6E0Sua5xhDsqV_nngMX2wY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjEz/NzItMTYxOTI3OTU1/OC04NTg0LmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/1oO2VTPfmz9CFkSqisC_o5Kh9PHCfx-23sWY6H7Fy4U/rs:fit/g:sm/q:90/h:320/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjEz/NzItMTYxOTI3OTU1/OC04NTg0LmpwZWc.jpeg",
+          "title": "Melissa",
+          "year": 1983,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Repress"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Mercyful Fate",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 251799,
+              "resource_url": "https://api.discogs.com/artists/251799"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Megaforce Records",
+              "catno": "MRI-369",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 35976,
+              "resource_url": "https://api.discogs.com/labels/35976"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Heavy Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good Plus (VG+)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good Plus (VG+)"
+          }
+        ]
+      },
+      {
+        "id": 7247372,
+        "instance_id": 577519905,
+        "date_added": "2021-01-17T22:00:23-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 7247372,
+          "master_id": 52823,
+          "master_url": "https://api.discogs.com/masters/52823",
+          "resource_url": "https://api.discogs.com/releases/7247372",
+          "thumb": "https://i.discogs.com/hV0Ig1Zpl48THYsQEpeFgCcc6ISbNRei45ct1aRKch4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDcz/NzItMTUzMDY2MTEz/Ni03Njg4LmpwZWc.jpeg",
+          "cover_image": "https://i.discogs.com/kxYOBI5Yi52ymPIACQnjaC8Dp8BKilqMWoOvyz2MlQs/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDcz/NzItMTUzMDY2MTEz/Ni03Njg4LmpwZWc.jpeg",
+          "title": "Jailbreak",
+          "year": 1976,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "Terre Haute Pressing",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Stereo"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Thin Lizzy",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 136188,
+              "resource_url": "https://api.discogs.com/artists/136188"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Mercury",
+              "catno": "SRM-1-1081",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 39357,
+              "resource_url": "https://api.discogs.com/labels/39357"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Hard Rock",
+            "Classic Rock"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Very Good Plus (VG+)"
+          },
+          {
+            "field_id": 2,
+            "value": "Very Good Plus (VG+)"
+          }
+        ]
+      },
+      {
+        "id": 11626974,
+        "instance_id": 577523877,
+        "date_added": "2021-01-17T22:13:53-08:00",
+        "rating": 0,
+        "basic_information": {
+          "id": 11626974,
+          "master_id": 52829,
+          "master_url": "https://api.discogs.com/masters/52829",
+          "resource_url": "https://api.discogs.com/releases/11626974",
+          "thumb": "https://i.discogs.com/k3c00A15QZ0bJfBgzbknzFhfPhlNl2HGmcCL9ufNJ8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI2/OTc0LTE1MjIyNzU4/NTUtODM4Mi5qcGVn.jpeg",
+          "cover_image": "https://i.discogs.com/rbToSEjptQItDFzJ0vjTvhcyXv1xbX3eW8leSdWaBVo/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI2/OTc0LTE1MjIyNzU4/NTUtODM4Mi5qcGVn.jpeg",
+          "title": "Johnny The Fox",
+          "year": 1976,
+          "formats": [
+            {
+              "name": "Vinyl",
+              "qty": "1",
+              "text": "Pitman Pressing",
+              "descriptions": [
+                "LP",
+                "Album",
+                "Stereo"
+              ]
+            }
+          ],
+          "artists": [
+            {
+              "name": "Thin Lizzy",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 136188,
+              "resource_url": "https://api.discogs.com/artists/136188"
+            }
+          ],
+          "labels": [
+            {
+              "name": "Mercury",
+              "catno": "SRM-1-1119",
+              "entity_type": "1",
+              "entity_type_name": "Label",
+              "id": 39357,
+              "resource_url": "https://api.discogs.com/labels/39357"
+            }
+          ],
+          "genres": [
+            "Rock"
+          ],
+          "styles": [
+            "Hard Rock",
+            "Heavy Metal"
+          ]
+        },
+        "folder_id": 1,
+        "notes": [
+          {
+            "field_id": 1,
+            "value": "Good Plus (G+)"
+          },
+          {
+            "field_id": 2,
+            "value": "Good (G)"
+          }
+        ]
+      }
+    ]
+  }
+}
