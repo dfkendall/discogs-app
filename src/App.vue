@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <v-main>
-      <HelloWorld />
+      <RecordCollection />
     </v-main>
   </v-app>
 </template>
@@ -12,6 +12,6 @@
 
 <style scoped>
 .v-application {
-  background-color: #F2C744 !important;
+  background-color: #0b0c10 !important;
 }
 </style>

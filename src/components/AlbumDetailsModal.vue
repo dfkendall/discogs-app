@@ -69,13 +69,16 @@
 </template>
 
 <script setup>
+//Imports
 import axios from 'axios';
 import { ref, onMounted } from 'vue'
 
+//Refs
 const additionalAlbumDetails = ref(null)
 const additionalArtistDetails = ref(null)
 const loading = ref(true)
 
+//Functions
 const setAdditionalAlbumDetails = async () => {
    loading.value = true
   await axios.get(props.resourceURL).then(response => {
@@ -86,36 +89,24 @@ const setAdditionalAlbumDetails = async () => {
     loading.value = false;
   })
 }
-
-onMounted(() => {
-  setAdditionalAlbumDetails()
-})
-
-// const 
-const props = defineProps({ title: String, subtitle: String, albumArray: Array, image: String, genre: String, format: String, description: String, year: String, additionalAlbums: Array, resourceURL: String })
-const emit = defineEmits(['closeEvent'])
 const close = () => {
   emit('closeEvent')
 }
-
 const getAdditionalAlbums = (value) => {
   var results = props.albumArray.filter(function (item) { return value.basic_information.title != props.title && item.basic_information.artists[0].name === value.basic_information.artists[0].name; });
   return results
 }
 
-const searchAlbums = () => {
-  
-  // switch (selectedSearchParameter.value) {
-  //     case 'Genre': 
-  //       filteredAlbumArray.value = albumArray.value.filter(function (item) { return item.basic_information.styles[0] === selectedSearchKeyword.value; });
-  //     case 'Release Year': 
-  //       filteredAlbumArray.value = albumArray.value.filter(function (item) { return item.basic_information.year === selectedSearchKeyword.value; });
-  //     case 'Condition': 
-  //       filteredAlbumArray.value = albumArray.value.filter(function (item) { return item.basic_information.notes[0].value === selectedSearchKeyword.value; });
-  //     case 'Artist': 
-  //      filteredAlbumArray.value = albumArray.value.filter(function (item) { return item.basic_information.artists[0].name === selectedSearchKeyword.value; });
-  // }
-}
+//Lifecycle
+onMounted(() => {
+  setAdditionalAlbumDetails()
+})
+
+//Props
+const props = defineProps({ title: String, subtitle: String, albumArray: Array, image: String, genre: String, format: String, description: String, year: String, additionalAlbums: Array, resourceURL: String })
+
+//Emits
+const emit = defineEmits(['closeEvent'])
 </script>
 
 <style scoped lang="scss">
