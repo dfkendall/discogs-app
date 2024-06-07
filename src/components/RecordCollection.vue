@@ -7,10 +7,10 @@
     >
       <v-col cols="12">
       <div class="text-center">
-        <h1 class="my-5" style="color: #FFFFFF">Derek's Discog Collection</h1>
+        <h1 class="my-5" style="color: #FFFFFF">Derek's Discogs Collection</h1>
       </div>
       </v-col>
-    <v-col lg="9" md="12">
+    <v-col cols="12" lg="9" md="12">
     <v-row>
       <v-col cols="12" class="px-0 pb-3">
         <v-card
@@ -21,8 +21,9 @@
           <v-card-text>
             <h2 class="text-h5 font-weight-bold text-center mb-5" style="color: #FFFFFF">Explore</h2>
             <v-row>
-              <v-col cols="6">
+              <v-col lg="6" sm="12" cols="12">
                 <v-select
+                  @click="showSearchResultsInfo = false"
                   :items="searchParameters"
                   density="compact"
                   hide-details
@@ -31,8 +32,9 @@
                   v-model="selectedSearchParameter"
                 ></v-select>
               </v-col>
-              <v-col cols="6">
+              <v-col lg="6" sm="12" cols="12">
                 <v-select
+                  @click="showSearchResultsInfo = false"
                   :items="selectedSearchParameterOptions"
                   density="compact"
                   hide-details
@@ -52,9 +54,11 @@
       </v-col>
     </v-row>
     </v-col>
-    <v-col lg="9" md="12">
+    <v-col cols="12" lg="9" md="12">
     <!-- Need to lazy load these -->
     <v-row v-for="record in filteredAlbumArray" :key="record.id"> 
+      <p v-if="showSearchResultsInfo" class="my-5">{{`Showing 1 result for "${selectedSearchParameter} - ${selectedSearchKeyword}`}}</p>
+  
       <v-dialog max-width="1000" transition="false">
         <template v-slot:activator="{ props: activatorProps }">
           <album-results-item 
@@ -137,6 +141,7 @@ const selectedSearchParameterOptions = ref([])
 const albumsFiltered = ref(false)
 const loading = ref(true)
 const error = ref(false)
+const showSearchResultsInfo = ref(false)
 
 //Functions
 const getDropdownValues = () => {
@@ -156,6 +161,7 @@ const getGenres = (value) => {
   return genre
 }
 const removeFilter = () => {
+  showSearchResultsInfo.value = false;
   selectedSearchKeyword.value = null 
   selectedSearchParameter.value = null
   albumsFiltered.value = false;
@@ -180,6 +186,7 @@ const getObjectProperty = (param) => {
   }
 }
 const searchAlbums = () => {
+  showSearchResultsInfo.value = true;
   albumsFiltered.value = true;
   switch (selectedSearchParameter.value) {
       case 'Genre': 

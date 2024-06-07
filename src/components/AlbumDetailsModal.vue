@@ -15,8 +15,8 @@
         <v-col lg="6" sm="12">
           <v-card-title class="text-center font-weight-bold"><a class="text-decoration-none" target="_blank" :href="additionalAlbumDetails.uri">{{title}}</a></v-card-title>
           <v-card-text class="text-center"><a class="text-decoration-none" target="_blank" :href="additionalArtistDetails.uri">{{subtitle}}</a></v-card-text>
-          <div class="text-center">
-            <img style="width: 300px; height: 250px" :src="image">
+          <div class="d-flex justify-content-center">
+            <v-img width="300" height="250" :src="image"></v-img>
           </div>
         </v-col>
         <v-col>
