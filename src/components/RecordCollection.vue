@@ -56,9 +56,8 @@
     </v-col>
     <v-col cols="12" lg="9" md="12">
     <!-- Need to lazy load these -->
+    <p v-if="showSearchResultsInfo" class="my-5">{{`Showing ${filteredAlbumArray.length} result(s) for "${selectedSearchParameter} - ${selectedSearchKeyword}"`}}</p>
     <v-row v-for="record in filteredAlbumArray" :key="record.id"> 
-      <p v-if="showSearchResultsInfo" class="my-5">{{`Showing 1 result for "${selectedSearchParameter} - ${selectedSearchKeyword}`}}</p>
-  
       <v-dialog max-width="1000" transition="false">
         <template v-slot:activator="{ props: activatorProps }">
           <album-results-item 

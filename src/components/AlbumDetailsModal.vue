@@ -1,7 +1,7 @@
 <template>
   <v-card class="pa-1" min-height="500" max-height="100vh">
     <v-row class="d-flex justify-end" style="max-height: 60px">
-      <v-btn class="mr-3 mt-3" height="30" @click="close">
+      <v-btn class="mr-3 mt-3" height="30" flat @click="close">
         <v-icon size="25">mdi-close</v-icon>
       </v-btn>
     </v-row>
@@ -113,8 +113,14 @@ const emit = defineEmits(['closeEvent'])
   .v-list {
     padding: 0px !important;
     margin-bottom: -15px;
+    @media (max-width: 600px) {
+      margin-bottom: -10px;
+    }
   }
   .v-list-item {
+  @media (max-width: 600px) {
+    font-size: 13px;
+  }
     padding-left: 0px !important;
   }
 
