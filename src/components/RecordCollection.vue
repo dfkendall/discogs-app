@@ -204,6 +204,7 @@ const callService = () => {
     albumArray.value = response.data.releases
     filteredAlbumArray.value = response.data.releases
   }).catch(function (error) {
+    console.log(error)
     apiError.value = true
   })
    loading.value = false;
