@@ -102,7 +102,7 @@
       </v-card>
     </v-dialog>
     <v-dialog
-      v-model="error"
+      v-model="apiError"
       width="auto"
     >
       <v-card
@@ -139,7 +139,7 @@ const selectedSearchKeyword = ref(null)
 const selectedSearchParameterOptions = ref([])
 const albumsFiltered = ref(false)
 const loading = ref(true)
-const error = ref(false)
+const apiError = ref(false)
 const showSearchResultsInfo = ref(false)
 
 //Functions
@@ -203,11 +203,11 @@ const callService = () => {
     axios.get('https://discogs-collection-api.onrender.com/getRecordCollection').then(response => {
     albumArray.value = response.data.releases
     filteredAlbumArray.value = response.data.releases
-    loading.value = false;
   }).catch(function (error) {
     console.log(error)
-    error.value = true
+    apiError.value = true
   })
+   loading.value = false;
 }
 
 //Computed properties
